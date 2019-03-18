@@ -299,7 +299,7 @@ def csv_load(csv_file, url_base, group, element, irclass, user, top_index='1', d
         nlw_context = False
     else:
         nlw_context = True
-    with open(csv_file, 'r') as csv_in:
+    with open(csv_file, 'rb') as csv_in:
         rows = list(csv.DictReader(csv_in, delimiter=delimiter))
         groups = [row for row in rows if row['dcterms:type'] == 'madoc:group']
         elements = [row for row in rows if row['dcterms:type'] == 'madoc:element']
