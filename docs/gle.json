@@ -1,0 +1,3043 @@
+{"@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://nlw-paulm.github.io/gle3.json",
+  "@type": "sc:Collection",
+  "label": [
+    {
+      "@value": "Gwilym Livingston Evans Master Collection",
+      "@language": "en"
+    },
+    {
+      "@value": "Gwilym Livingston Evans Master Collection",
+      "@language": "cy-GB"
+    }
+  ],
+  "description": "Images of Trawsfynydd Carnival, Images of O'Brien and John Douglas.",
+  "attribution": "Llyfrgell Genedlaethol Cymru \u2013 The National Library of Wales",
+  "metadata": [
+    {
+      "label": [
+        {
+          "@value": "Title",
+          "@language": "en"
+        },
+        {
+          "@value": "Teitl",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": [
+        {
+          "@value": "[Trawsfynydd Carnival, Images of O'Brien and John Douglas]",
+          "@language": "en"
+        },
+        {
+          "@value": "",
+          "@language": "cy-GB"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "Author",
+          "@language": "en"
+        },
+        {
+          "@value": "Awdur",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": "Evans, Gwilym Livingstone photographer."
+    },
+    {
+      "label": [
+        {
+          "@value": "Period",
+          "@language": "en"
+        },
+        {
+          "@value": "Cyfnod",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": "1968."
+    },
+    {
+      "label": [
+        {
+          "@value": "Physical description",
+          "@language": "en"
+        },
+        {
+          "@value": "Disgrifiad ffisegol",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": "24 slides : black and white ; 6 x 6 cm. or smaller."
+    },
+    {
+      "label": [
+        {
+          "@value": "Repository",
+          "@language": "en"
+        },
+        {
+          "@value": "Ystorfa",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": [
+        {
+          "@value": "This content has been digitised by The National Library of Wales",
+          "@language": "en"
+        },
+        {
+          "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Genedlaethol Cymru",
+          "@language": "cy-GB"
+        }
+      ]
+    }
+  ],
+  "manifests": [
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693064/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Contact Sheet 1 Box 1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694556/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Lewis L.L. Jones Tabernacle un cau (part) Ben Jones Wedding R.N. Assn. Armistice 1978",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694590/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Longton Transport at Portmerion. Girls at Portmerion Tabernacle Chapel. Community Centre. Walker M.P. Owen Edwards Menofferen. Queens Garage Damage",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694607/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wine Tasting at Portmerion Hotel",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694674/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Standard Dedication R.W.F. At Llanfreothen with Mark and Graham. Chester Town Crier. Bythwyn Talsarnau Hand Glider at Aberdyfi.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694696/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Armistice Parade at Hospital \" Cyril Williams. C. E. G. B. Fireworks.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694716/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "All at Chipping Norton.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694759/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Manod W. Institute - Metcalfe Annual Dinner. Pritchard Evans",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694772/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Pobl Drws Nesaf - Bethesda Sunday School - Owen Magic Carmel - Pop Group Trawsfyny",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694784/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Part Metcalfe - Music Society Evan Roberts, Capel Curig -",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694871/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding John & Glenys Tabernacle Film no. 1.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694887/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding John & Glenys Tabernacle Film no. 1.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694917/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Ffestiniog Power at Queens-Carols-Will Hughes-Cornelius in the snow.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694938/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "High Sherriff - Seion Genhadaeth - Cross Keys",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694961/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Meirionwen, 1 Penrhos Bl. Herbert F2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694988/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Meirionwen, 1 Penrhos Bl. Herbert F1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695005/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Bowydd Chapel - Maenofferen School Party",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695018/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Etchells first bolt-remembrance day",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695086/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Llan View-Dyffryn Ardudwy Party-Rhiw Organ-Etchells",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695189/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Richard and Mena Carmel Tanygrisiau No 2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695217/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Bwlch y Gwynt Chain Singing Twins-Jean's Baby (Part) Ffestiniog guide - Ballet - Bert Roberts Penrhyn - Exhibition Jeru",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695281/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "No 1 Jennie and Arthur Ebenezer",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695627/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Y. F. S. Choir/Band -Traws/Cymanfa/ Martin",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695728/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Ffestin, Ffestiniog Wedding No. 1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695779/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Mair & Jim No. 1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695826/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Lewis Traws-Roy Rowlands- Mr. & Mrs Price, Foel-Glyn Eden Jones",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695842/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Kitty FFestiniog Wedding No. 1.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695859/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Eifion a Margaret Bowydd September 2nd Film No1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4695988/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Ifan Wms. Vicar, Bl - Ann Davies - Marwood boys - Q.E. Funnels (film Vicar's fam)",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696096/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Eifion a Margaret Bowydd September 2nd 1968",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696275/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Eleanor and David. Film No. 1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696292/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Eleanor and David. Film No. 2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696322/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Mair & Jim No. 2.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696356/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Valerie and Ellis Edwards . . . . No1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696407/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Shirley and Raymond Price",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696506/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Jane Elizabeth and Raymond Meirion House . . . No 1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696584/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wrecks Llan Ffestiniog; Police Inspector; House at Uncorn; Towyn Road baby; W H Jones - memorials; John's baby (Glorian)",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696618/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Wendy and David Rowlands No 1 . . .",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696652/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Wendy and David Rowlands No 2 . . .",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696728/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Jane and David Douglas Home - No 1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696745/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Jane and David Douglas Home - No 2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696762/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Blenheim Palace; Holiday 72/",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696798/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Ann and Elwyn Jones, Manod",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696821/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Ann and Elwyn Jones, Manod . . . No 2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696908/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Morfa Bychan; Saint Mary, Llanegryn",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696916/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Telynores Dwyryd at home; Ernest Williams/Parlwr bach",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696946/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Tyrnpyke Newydd",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696956/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Gwenno/Alvona/Liberal Publications",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696966/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Factory Pant yr Ynn",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4696979/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Sal and Les Daniels wedding No 3",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697009/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Guild play field",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697017/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Sal and Les Daniels wedding No 2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697034/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Post Office, Blaenau; David Lloyd, tenor; Waverley baby",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697047/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Library scenes; Myra; various scenes private",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697064/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Hen Bobl Trawsfynydd a bl. Ffestiniog - Eilir Jones",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697077/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Opening Llyn Celyn",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697094/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Carnival",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697111/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Waverley Babies - Taddei in the snow",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697123/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Tegwen and Myra/ Traws. Stn./ Dyffryn Babies/ Betty.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697127/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Cynan- Myra - Nia - School Children",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697139/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Opening Llyn Celyn",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697156/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Label Missing",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697168/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Label Missing",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697172/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Kitty Lloyd Jones Wedding 1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697189/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Trawsfynydd Post Office - Siop T.H. Williams Waverly Shop - Unidentified Woman",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697202/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Kitty Lloyd Jones Wedding 2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697219/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Blaenau Football team - Bus on Moelwyn - Outlet Festiniog Power Station - John Barber - Holyhead",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697236/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Capel Celyn near Bala before flooding",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697275/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Blaenau Ffestiniog Scenes",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697291/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Leonard and Glenys Jones",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697322/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Will Gloddfa Ganol - Mikado no.2 - Meals on Wheels - Badminton",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697352/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Mikado shots of poster girl Mrs. M.O. Morris - Mrs Wms, Rhiw",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697441/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Metcalfe Dinner at Queens",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697454/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Ysgol Ardudwy film no.2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697471/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Welsh Singer Margaret P",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697552/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Cynfal Establishment - Mikado Final - Druid Film unit",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697564/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Lewis Moelwyn Jones; Eisteddfod Henoed; Edgar Jones Urdd Rooms",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697572/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Lord Snowdon at Llanbedr",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697604/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Idris Jones - Sam Jones; Mrs Jones Ty'n Pistyll",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697623/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Gwennie Liverpool; Spratt Dolgellau",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697647/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Alan Jones, Frongoch",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697677/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Bryfdir and Carys Jones, No 2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697693/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Bryfdir and Carys Jones, No 1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697710/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Bryfdir and Carys Jones",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697727/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Camping with Eilir; helicopter at Maentwrog",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697780/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Etchells Factory Site",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697784/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Blaenau Sheep for Sandy",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697839/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Traws, Carnival Blaenau Carnival no.2 Miss Merioneth",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697920/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Gwenda a David, Don. No.1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4697950/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Gwenda a David, Don. No.2 (no.3 add)",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698020/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Helen and Wyn Wedding No.2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698066/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Emyr a Heulwen No.2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698081/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Emyr a Heulwen No.1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698098/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding (2) David and Adeila - David Ellis",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698115/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "David and Adeila No.2.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698178/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Christening Moreley Baby",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698239/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Aubrey Thomas - J.LL Jones Manod? Evans Meirion Hotel",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698278/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Mr. &Mrs . J.R.Jones, Meifo - Mark Owen - Richie Owen - Len Wedding. -",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698291/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Anna Oakeley Square. No.2.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698361/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Anna Oakeley Square.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698413/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Editors at Tanygrisiau Power Station Mrs. G. Jones - Mrs. Nancy Jones - Mrs. Sam Jones Mrs. Pat Cuningham Mr. Heath Golding.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698477/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Veronica Dunleavy Wedding film no 2.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698496/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Veronica Dunleavy Wedding film no. 1.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698513/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Oakeley Quarries Blaenau Ffestiniog.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698550/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Closing down of Dolwen Power Station",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4698670/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Presentts Nova, Church Street",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693064/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Trawsfynydd Carnival, Images of O'Brien and John Douglas",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693393/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Closing of Slate Quarries School.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693564/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Mair Jones Bowydd St. Bl. Carnival. & Rhiw. Tunnel Railway.opening",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693583/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Blaenau Carnival. Etc. etc.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693643/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Gellilydan Carnival The Wall Wesmister Abby at Portmerion",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693660/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Party at Quees Hotel with J.R. Jones Supt, Parry",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693707/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Portraits Vic. Oliver / Car Smash Talsarnau Dick Oliver Jones Dolgellau",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693720/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Cornwall trip.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693735/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Tanyblwch Post Office Ted & Eilir in Ireland At Cairblaidd-Betty Watkin Bus on Moelwyn-football-",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693777/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Olwen Daniel Glyn Jones Traws Armistice-",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693822/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Trawsfynydd Nuclear Visiting Day",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693896/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Harlech T.V. at Caernarvon",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693958/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Eisteddfod Ieuenctid Bro Ffestiniog Cereni- Lorry at Ganllyd Bridge.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4693969/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Trawsfynydd Carnival dinner and dance.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694056/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Young farmers dinner at Trawsfynydd Olwen Daniel",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694103/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding of Ann Edwards and Robert J. Owen No 3.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694119/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding of Ann Edwards and Robert J. Owen. No 1.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694136/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding of Ann Edwards and Robert J. Owen. No 2.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694202/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Ivor Gellilydan No 1.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694219/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Ivor Gellilydan No 2.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694244/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Abersoch scenes awaiting wedding party - Cor Y Brythoniaid.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694280/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Penrhyn-Llan School - pepperpot.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694286/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "C.B.C. \"Nuclear Snowdonia at Trawsfynydd.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694305/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Lowri and John Wedding film 2.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694322/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Lowri and John Wedding film No. 1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694339/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Lowri and John Wedding film 3.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694354/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Hufenfa Merion Demonstration of Machines at Trawsfynydd",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694362/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Merioneth Ball No.2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694374/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Etchells-Merioneth Ball",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694377/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "\"Crochendy Portmeirion\"",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694394/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Plaque presentation School Maentwrog riders. (pony) Diwedd Gwasanaeth Tabernac",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4694410/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Blaenau Centre Xmas dinner. Blaenau Music Society Maenofferen Factory Mrs. Brenda Short",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700202/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Delyth Jones - John McLaren. Maentwrog",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700215/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Delyth Jones - John McLaren. Maentwrog No.1",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700237/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Red Dragon Relay - Joyce Davies - St. David's Church re-opening - Sgt Williams and police officer",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700248/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Selwyn's funeral - Lift Chairs, Llandudno - Cawbridge glass houses, Caerynwch",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700300/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Liberal Assn. Publicity",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700312/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "im. I -3/ Sian Traw llau/ Kennedy",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700337/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Ffestiniog Railway Centenary.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700349/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Final Miss Merioneth (3( Meirion Williams-Roberts, Don- Manod Group",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700366/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Alwena Jones. Llechwedd. Mason's at Criccieth",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700389/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Miss Merioneth at Hufefna, Vicar of St. Saviour Tanygrisiau. N.Welsh factory.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700468/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Miss Merioneth (2) at Urdd, Tom Parry .",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700485/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Ffestiniog Railway Centenary.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700498/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Centenary, Ffestiniog Railway",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700511/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Criccieth Mason's Dinner, various personalities.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700558/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Gwenda Lewis/ Colts Cup at Llanrwst",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700575/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Music Society on Ffestiniog Railway, Carnival Queen.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700605/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Centenary, Ffestiniog Railway",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700630/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Anna Davies, Wynne Road, Blaenau Ffestiniog.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700650/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Llanbedrog Camera Outing",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700661/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Film 3. Mason Dinner at Criccieth, Various persons.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700678/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Tolynores Dwyryd in the garden/ Erw'r Delyn.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700698/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Dinah McShane Wedding - Jim Roberts - Copy New York",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700729/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Girl Guides, Dolgellau",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700759/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Giuseppa Griffiths (Pina Sheep at Bloor's Bakery - Angela Carnival Queen '69",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700872/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "No.2 Wedding Megan Ionwen Geraint Williams. Gilgal",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700891/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Jones Talwenydd - Antique Plate - Capel Manod.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700904/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Megan Ionwen Geraint Williams, Gilgal.",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700921/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Young wives dinner at Pentrefelin - Mrs Chamberlain, Ffestiniog",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700934/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Mr & Mrs J W Bull, Llan; Cyfnod Girls - Nancy's Funeral - Dog in basket - Cyfnod girls in car",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700947/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Mrs Nellie Green - ?? Mr Ken Titley - Catholic Church opening",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700960/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Frank Bradley - Will Booth - Myra -Armistice",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700973/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Sheriff's Hall, Dolgellau; Phillip Marwood",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4700984/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding - Shirley and Glyn Evans - English Chapel",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4701001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Valerie Royal John Richards No 2",
+      "description": ""
+    },
+    {
+      "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4701018/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Valerie Royal John Richards No 1",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694427.json",
+      "@type": "sc:Manifest",
+      "label": "Plastik Factory Swimming Gala Ysgol Moel. Dechreu Canu Dechreu Canmo Jerusalem. + Soldier copy. gle01916 - offensive content.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694539.json",
+      "@type": "sc:Manifest",
+      "label": "Lewis 27, Dorvil Street Alan Garraway Mrs. Pegi Evans Jones. Eisteddfod Bro Ffestiniog Dr. Maxwell Dylan, John, Mark, Guy Fawkes",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694524.json",
+      "@type": "sc:Manifest",
+      "label": "Jones Haygarth Villa Len Jones Bowling Hut at Bank rear (Mr. Owen Mary (Soch) Jones Copies Quarry Stm Yard (Will) Y Faino Sglodion Breeze Jones - Jos. Jones. Gwyn Thomas - Roberts Butch",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695153.json",
+      "@type": "sc:Manifest",
+      "label": "Meirion Jones re. Laundry Cottage, Maentwrog.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693301.json",
+      "@type": "sc:Manifest",
+      "label": "Ed. John Jones Plas Lodge Mr&Mrs. Pugh Ysgol Sir. Kevin Williams Bowydd St. Llechwedd Crew 1939 Meurig Wms. Rectory Glenda a Glyn (Hyfrydfa). Westminster wall final.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694236.json",
+      "@type": "sc:Manifest",
+      "label": "John C. Jones- The Pretneders at Forum",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694862.json",
+      "@type": "sc:Manifest",
+      "label": "Ann Wms. Manod Rd. & Friend John Roberts-Seaman, Maesneu John Robers-Meirion House Fire Cert, St. John's.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693335.json",
+      "@type": "sc:Manifest",
+      "label": "Mrs. Hughes Sun Street Llan Irene Gallagher Bryn Tirion Mr&Mrs.J.Williams Wynne Rd. Dr. & Mrs. Whitaker. David Hughes and Carys Ephra Miss World at Llechwedd (Helen Morgan)",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693531.json",
+      "@type": "sc:Manifest",
+      "label": "High St. Baby. W.I. Llan old time. Mike Thomas Football St. John's presentation Wedding press Helen Phillip",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695669.json",
+      "@type": "sc:Manifest",
+      "label": "Myra-Polish Passport-Sheila-Penrhyn (Mair) Myra Spedo- B. B. C. outdoor. Ffestin, FFestiniog Wedding No. 2.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693826.json",
+      "@type": "sc:Manifest",
+      "label": "High Sheriff's Ball-Manod School- Gareth Parry, Ffestiniog.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693129.json",
+      "@type": "sc:Manifest",
+      "label": "John Douglas, St John's Etchells for Mid-Wales Poster for Bryfdir Recital",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693495.json",
+      "@type": "sc:Manifest",
+      "label": "Carys Jones Bowydd Street with two other girls. Stephen and Carter C.E.G.B. Will Davies with Cart (milk) School copy for Lyndale.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693284.json",
+      "@type": "sc:Manifest",
+      "label": "Hefina Williams Merion Hs Linda Edwards Bro Prysor Pat Snarr Trawsfynydd Geraint Roberts, Tanygrisau Llan Carnival committee Gweunydd Thomas Los Angeles Llechwedd Chess Board. Cor Merched y Bryniau (part) Hospital 50th Anniv",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693945.json",
+      "@type": "sc:Manifest",
+      "label": "Young wives tea party for children-Bob Pollock- Barmaid Oakley Arms DOLWYDDELEN PORTRAIT",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694189.json",
+      "@type": "sc:Manifest",
+      "label": "Opening Manod New School",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694809.json",
+      "@type": "sc:Manifest",
+      "label": "Council Presentation, 6 Old Tanymanod-Elwyn Evans, 18 Penygwndwn-Liza Kate-fron Goch etc. Jean W. Williams",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693190.json",
+      "@type": "sc:Manifest",
+      "label": "Miss Blaenau -Forum - Will Edwards-Ballet-Winning Baby- Mrs. Jones and Mrs. Williams Leeds St-Bolton Cafe",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694257.json",
+      "@type": "sc:Manifest",
+      "label": "Will yr L. and Wife Bonn John Roberts Dog.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694292.json",
+      "@type": "sc:Manifest",
+      "label": "Jerusalem-SeionLantern- Crampton's Sister.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695467.json",
+      "@type": "sc:Manifest",
+      "label": "Bob Jones Ysgol Sir - Mrs Parker Traws - Gerrig Gleision - Livingstone Jones Sq's daughter",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693105.json",
+      "@type": "sc:Manifest",
+      "label": "Peacock Rhiw, Ceinwen unveiling etchells. A.P. Evans, Eryl, Ffestiniog",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694822.json",
+      "@type": "sc:Manifest",
+      "label": "E. J. Bloor, Cross Keys- Ernest Jones' aniversary",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693359.json",
+      "@type": "sc:Manifest",
+      "label": "Women's Institute 60th anniversary Christopher Jones, Ffestiniog Mrs. Gaynor Evans. Crosville Driver",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694267.json",
+      "@type": "sc:Manifest",
+      "label": "Capel y Rhiw-Tim Jones Square-Evans T.V.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693204.json",
+      "@type": "sc:Manifest",
+      "label": "Linda Owen, Police, Trawsfynyd -Tan-y-bwlch-Hugh & Jennie Williams, Glanypwll.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693478.json",
+      "@type": "sc:Manifest",
+      "label": "(part) Hospital Anniversary Jean (Hospital( Humreys J.F. MeeusBorth Y Gest Eifion Williams, Cwmbowydd Italian Imigrant Peter Scott ad Girl Friend Portmeirion Plays.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694001.json",
+      "@type": "sc:Manifest",
+      "label": "Xmas partt young wives- Bob Morgan - Fleur Boy - Dr. and Mrs. Gwyneth Evans. - Y Gwreichien.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693883.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Thomas Lord St. Baby Gwenda Don - Mandy Waterloo",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694951.json",
+      "@type": "sc:Manifest",
+      "label": "Ffestiniog Power St. Merioneth Carnival - Capel Brynbowydd-Evan G. Griffiths",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694651.json",
+      "@type": "sc:Manifest",
+      "label": "Gwenan a Euros. Eifion Stores. Dechreu Canu Dechreu Canmol Chipping Norton Bambry Cross. etc.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693511.json",
+      "@type": "sc:Manifest",
+      "label": ". 35 m.m. Wedding William a Clair at Haslingfield at Beaumaris. Jail.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694488.json",
+      "@type": "sc:Manifest",
+      "label": "Ian Carter, Market Square Bridge on the river Bowy Mrs. Sim Ratenbury, Llan. Gordon Sutton Maenofferen",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695206.json",
+      "@type": "sc:Manifest",
+      "label": "Chris and Loreley St Twrog No 3",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694930.json",
+      "@type": "sc:Manifest",
+      "label": "Part three Margaret Owen J. C. Jones Dolwyddelen.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695497.json",
+      "@type": "sc:Manifest",
+      "label": "Chris and Loreley St Twrog No 4",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693410.json",
+      "@type": "sc:Manifest",
+      "label": "Copies Central School -family -quarries. Myfr Edwards, Rhydymain. C.Trade Exhibition Jerusalem Linda & Wyn Wedding Press",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695430.json",
+      "@type": "sc:Manifest",
+      "label": "Blaenau Crosville - Rosina Baby",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693548.json",
+      "@type": "sc:Manifest",
+      "label": "(35))mm Betty & Mark at Tanyblwch Westmister Wall Portmeirion Mr. Tom Jones Gellilydan Mrs. Moss Dolwydddelen. Judith and John Forth. (Wedding) Mrs. Roberts Don.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694475.json",
+      "@type": "sc:Manifest",
+      "label": "Islwyn Richard Jones? Jennifer Roberts Goodmayes Selwyn Jones Bron Erw Ffes Trawsfynydd Cook Presentation Halloween Brownies W.I. Tanygrisiau Darts.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695556.json",
+      "@type": "sc:Manifest",
+      "label": "W.I. Tanygrisiau Gymanfa/Ceinwen/Dol/Rose Traws/Lewis U.S.A.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694444.json",
+      "@type": "sc:Manifest",
+      "label": "Copy L.N.W.R. 1879-79 Westminster Bank Pengwern Hall. Glyn Jones (bach) Copy Nadolig Llawen Llafar",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695568.json",
+      "@type": "sc:Manifest",
+      "label": "Llan and Judo- Bridge Cafe Prod",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695657.json",
+      "@type": "sc:Manifest",
+      "label": "Glyn Jones and 3 Crampton/D Jones/Ffestiniog Edgar D Jones CR ARDUDWY",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694505.json",
+      "@type": "sc:Manifest",
+      "label": "Buffs Party at North Western Harriet Tucker, Glanypwll Eifion Stores (sale morning) Library Church St. closing. Hospital Xmas with Janet Don Ysgol y Manod, Xmas party",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695456.json",
+      "@type": "sc:Manifest",
+      "label": "Lorely Gethsemane - Ann Roberts Ysgol Bobby Thomas Wife - John Rees - Maentwrog Wedding - 50th Anniversary Mr Daniel Jones",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695234.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Maldwyn and Elizabeth",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4654878.json",
+      "@type": "sc:Manifest",
+      "label": "Wm. Carey Jones, Isfryn, 4, Gwaenydd Terr. Rhiw-S Snar Traws. Part Marian Bryfdir Wedding.. gle3",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693808.json",
+      "@type": "sc:Manifest",
+      "label": "Camera night out-Griff John Roberts, Talweunydd-Lol, Pentrwyn-Melinda Jones 55, From Fawr-Marian Perry 6, School Street, Penrhyn.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695059.json",
+      "@type": "sc:Manifest",
+      "label": "John Queens Garage-Golf LLan-Trawsfynydd Atomic Etchell. Burrows",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695345.json",
+      "@type": "sc:Manifest",
+      "label": "Barmouth Wedding No 2 Peter and Ruth",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695443.json",
+      "@type": "sc:Manifest",
+      "label": "Robert Edwards USA - Councillors - Fronfawr - Wedding - Banner Bethania",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695127.json",
+      "@type": "sc:Manifest",
+      "label": "Heddus &Clain Jones Blaenafon- Rosina- Urdd Penrhyn- Myra&Rem-Norma Wedin brother at Llan",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694634.json",
+      "@type": "sc:Manifest",
+      "label": "Dr. Whitaker in surgery Martin K. Griffiths Rock dwellers. Woolway Etc Arthur(Baker) Jones Mrs. Lewis R. Lews Pres. Capel Salem Rhiw Bethel Tanygriaiau Carmel Tanygrisiau Glanrafron Terrace Tanygrisiau View from Dolrhedyn Wm. Emrys Thomas Tanygrisiau Eleuned Thomas Founddry",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694573.json",
+      "@type": "sc:Manifest",
+      "label": "Deputy Director Plas Tanyb wife and child. Copy of R.W.F. Liverpool Copy Evand Manager Llechwed Paul William Tai Gelli",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693180.json",
+      "@type": "sc:Manifest",
+      "label": "Pentrwyn Garnedd for B.B.C. or I.T.V.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695394.json",
+      "@type": "sc:Manifest",
+      "label": "Diamond - Jennie & Arthur - Gwynfor - Councillors C Jones - Bryfdir Jones Young - Roberts",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693116.json",
+      "@type": "sc:Manifest",
+      "label": "Portrait Photographs and an image of a cat",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693232.json",
+      "@type": "sc:Manifest",
+      "label": "(Farrer) Ceinwen-Ceryl Davies- Davi Price-Brian LLoyd, Cefn Gwy Trawsfynydd-Hughie Green Forum?????? Williamson",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693602.json",
+      "@type": "sc:Manifest",
+      "label": "35 M.M. Deilwyn a Annwen Julie Williams Mr. Birse. Archology Group William Maxwell.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694904.json",
+      "@type": "sc:Manifest",
+      "label": "Gorfwysfa-Delfryn-Glanypwll-Mrs R. Ll. Jones-Meurig Thomas -Proctor- Football Team-Dick Jones",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695356.json",
+      "@type": "sc:Manifest",
+      "label": "Mrs Lloyd, Bron Ffynnon - Jerry at Bangor",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693913.json",
+      "@type": "sc:Manifest",
+      "label": "(Brynmer) Flags of C.E.G.B. Traws David Staed - Eisteddfod Henoed - Rhiw Memorial -David Lewis - Copy for Minfford. LINES ARE ON NEGATIVES,",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693672.json",
+      "@type": "sc:Manifest",
+      "label": "By. Myra wirth Mair Bank - Irish nurse with Gwenne.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693089.json",
+      "@type": "sc:Manifest",
+      "label": "Mr. and Mrs. Carr, Marian and Husband Jeffrey, Talweunydd",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693376.json",
+      "@type": "sc:Manifest",
+      "label": "Mr.&Mrs. D. Lewis Garth Dorvi David Francis (Sep) copy Linda a Derek (Porthmadog) wedding end .",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694851.json",
+      "@type": "sc:Manifest",
+      "label": "Tock H. Gareth Jones? - Etchells.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695140.json",
+      "@type": "sc:Manifest",
+      "label": "High Sheriff-Bakers Manchester-",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694624.json",
+      "@type": "sc:Manifest",
+      "label": "Morris Dancers (Queen) Llan Ffestiniog (dinnerXmas) Bryn Llywelyn (dinnerXmas. Llechwedd Presentation with Hefin Davues etc. unidentified passport.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695576.json",
+      "@type": "sc:Manifest",
+      "label": "Ysgol Ardudwy Sports/ No. 1.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694458.json",
+      "@type": "sc:Manifest",
+      "label": "Pont Dolgyfeiliau Mark yn golchi llestri",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4654891.json",
+      "@type": "sc:Manifest",
+      "label": "G. Guest Dolgellau-Mrs. Pegy Evans-Jones-Mrs. Gwilym Lewis-Tywysoges Cristionogol, Tanygrisiau",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695382.json",
+      "@type": "sc:Manifest",
+      "label": "Carys and daughter - Cllr Elwyn Roberts",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693212.json",
+      "@type": "sc:Manifest",
+      "label": "Nem Thomas -Jack Richards -Mrs. Morris Pritchard- Ann Pritchard-D.H. Perkins -Mr. & Mrs. David Medwyn Thomas, Wynne Road.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693352.json",
+      "@type": "sc:Manifest",
+      "label": "copies David Francis Aug copies for Gareth Williams Glyn Dairy (quarries)",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695509.json",
+      "@type": "sc:Manifest",
+      "label": "Keep Fit - Mrs Stevens - and friend - Mrs Parry Creigle, unemployment exchange - David Evans Jones USA",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693444.json",
+      "@type": "sc:Manifest",
+      "label": "Rector Ifan a Miriam. Mathew Mills, High Street Gellilydan Coranation",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693427.json",
+      "@type": "sc:Manifest",
+      "label": "(Llan Copy) William Roberts/Gloddfa Mrs. Richards Baron Rd. (Elizabeth Ann) Llan Ffestiniog concert Mr. B.K.Nerhu (Indian Commission) 1,000 visitor Cor Moelwyn Llan Carnival.",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4695419.json",
+      "@type": "sc:Manifest",
+      "label": "Chris and Loreley St Twrog No 2",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694740.json",
+      "@type": "sc:Manifest",
+      "label": "Nancy Foel. Esso Station - Poet Park Sq. Trebor Jones - Garroway at Music Society - Elfed Price Williams - Glyn Bryfdir Jones",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4694976.json",
+      "@type": "sc:Manifest",
+      "label": "Myra&Rem. English Chapel-Godfrey Kneller-Halloween-Nov1st Etchells",
+      "description": ""
+    },
+    {
+      "@id": "https://nlw-paulm.github.io/manifests/4693318.json",
+      "@type": "sc:Manifest",
+      "label": "Rev Adrian Williams PORTMERION .. Hockney Valerie Singleton Bob Welling Richard Baker B.B.C. with Sir Clough.",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700647.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701035.json",
+      "@type": "sc:Manifest",
+      "label": "Young Wives at Criccieth; CEGB Trawsfynydd - Dec-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701044.json",
+      "@type": "sc:Manifest",
+      "label": "Ann Davies - David Greenhalgh - Wedding No 1 - Dec-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701061.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Ann Davies David Greenhalgh No 2 - Dec-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701078.json",
+      "@type": "sc:Manifest",
+      "label": "Simon Bond (2); Marianne Wales - Jerusalem concert - Wives Children's Party; CEGB Trawsfynydd - Dec-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701091.json",
+      "@type": "sc:Manifest",
+      "label": "R Jones c/o Manor Divy; Wedding ? - Maldwyn Jones - Music Society - Savings at Queens Hotel - Dr Daynes - Nov-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701101.json",
+      "@type": "sc:Manifest",
+      "label": "Music Society Bowydd - Wedding Morgan at N W Hotel - Susan - Maentwrog Group - Medwen Roberts Carmel - Unidentified Passport - Oct-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701114.json",
+      "@type": "sc:Manifest",
+      "label": "G Roberts; Hope Manufacturing - George W Jones, Tanygrisiau - Dorcas Roberts - Camera Dinner - Ald. Gwyneth Evans - (Dr. also in December) - Dec-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701127.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701145.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Colin Rayner, Frieda Jones. Portmadoc No 1 - November 1st 1969",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701162.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Rhian Jones - Ieuan Davies; One Neg only - Nov-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701179.json",
+      "@type": "sc:Manifest",
+      "label": "Enid Hughes, 5 Blaenafon; WEDDING Llan Sherlei Orr. Gail Williams Blue Star - Dec-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701192.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\"; Colin Rayner - Frieda Jones Portmadoc No 2 - Novermber 1st 1969",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701209.json",
+      "@type": "sc:Manifest",
+      "label": "Bob Jones Llan - Centre Bl. Bleddyn Jones - Dyffryn Ardudwy - Mr & Mrs OSea - Square - Simon Bond - Nov-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701222.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding - Shirley and Glyn Evans - English Chapel; No 1 - Oct-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701238.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Annwen Jones - John Alwyn Pritchard No 1 - November 29th 1969",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701255.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Annwen Jones - John Alwyn Pritchard No 2 - November 29th 1969",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701285.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698794.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698807.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698813.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698822.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698838.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698851.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698856.json",
+      "@type": "sc:Manifest",
+      "label": "no label",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698929.json",
+      "@type": "sc:Manifest",
+      "label": "Chape Lord Street. Emrys Thomas - Jan-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698959.json",
+      "@type": "sc:Manifest",
+      "label": "Sally Ellen Wedding - Mar-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698974.json",
+      "@type": "sc:Manifest",
+      "label": "Fashion Show Dolgellau - Mar-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698986.json",
+      "@type": "sc:Manifest",
+      "label": "Fashion Dolgellau - Mar-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699027.json",
+      "@type": "sc:Manifest",
+      "label": "Elizabeth Williams, 21, Manod Road, Wedding, Film No.2 - Mar-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699044.json",
+      "@type": "sc:Manifest",
+      "label": "Col. Williams-Wynne. 21st William - Mar-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699062.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699093.json",
+      "@type": "sc:Manifest",
+      "label": "Morfydd Model Bakery No. 2 - Mar-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699139.json",
+      "@type": "sc:Manifest",
+      "label": "Agricultural Dinner, Golden Lion, Dolgellau",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699189.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding, eleanor and John Film 2 - Feb-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699206.json",
+      "@type": "sc:Manifest",
+      "label": "Branwen Parry Dolgellau Wedding Film No.2 - Mar-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699223.json",
+      "@type": "sc:Manifest",
+      "label": "Fire Brigade - David Jones & family - Portmadoc - March",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699240.json",
+      "@type": "sc:Manifest",
+      "label": "Open day at Ysgol y Moelwyn - A O Morris - Sep-65",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699252.json",
+      "@type": "sc:Manifest",
+      "label": "Children from Ysgol Maenofferen - Gwyn Hughes Dyffryn Ardudwy - Ysgol Tanygrisiau - Mrs W O Williams - Lois Davies",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699269.json",
+      "@type": "sc:Manifest",
+      "label": "Ysgol Ardudwy, Harlech - Myra approx March 1965 - Mar-65",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699293.json",
+      "@type": "sc:Manifest",
+      "label": "Camera Club/Ballet/Sgt Williams & Nest/Wena/etc",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699304.json",
+      "@type": "sc:Manifest",
+      "label": "Ty'n Cefn; Mrs Richard Parry",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699336.json",
+      "@type": "sc:Manifest",
+      "label": "Cor Ysgol Sir; Gwen Lloyd, 40 years at Model Bakery; Hungarian - Mar-65",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699345.json",
+      "@type": "sc:Manifest",
+      "label": "Tegwen 21st/Will, Laura, Glyn/Ysgol Sir, France/Milk Bar Girls",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699358.json",
+      "@type": "sc:Manifest",
+      "label": "Jane Roberts, Craig yr Onwy; C = 23 - 30",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699381.json",
+      "@type": "sc:Manifest",
+      "label": "Cor Ysgol Sir/Dyffryn school/Foel/Dyffryn Babies",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699394.json",
+      "@type": "sc:Manifest",
+      "label": "Grim 4-15 start",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699407.json",
+      "@type": "sc:Manifest",
+      "label": "Astle White Lion - Mar-65",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699420.json",
+      "@type": "sc:Manifest",
+      "label": "First children's tea party at CEGB Tanygrisiau",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699433.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Marian Jones and John, Bowydd Street",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699446.json",
+      "@type": "sc:Manifest",
+      "label": "Betty Morgan; Betty's sister Power station Ty'n Cefn - May-65",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699459.json",
+      "@type": "sc:Manifest",
+      "label": "Iola Hughes . . . Wedding",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699476.json",
+      "@type": "sc:Manifest",
+      "label": "Iola Hughes Wedding",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699484.json",
+      "@type": "sc:Manifest",
+      "label": "Portraits Telynores Dwyryd - Mar-65",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699497.json",
+      "@type": "sc:Manifest",
+      "label": "Ballet at Forum Cinema",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699503.json",
+      "@type": "sc:Manifest",
+      "label": "Ballet at Forum Cinema",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699510.json",
+      "@type": "sc:Manifest",
+      "label": "London Welsh",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699564.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Gaynor Lloyd; various children at wedding",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699586.json",
+      "@type": "sc:Manifest",
+      "label": "Shots/Camera Extra Club shots. There are 38 images in this phase not 27 so they need sorting out and to be renamed before finishing",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699625.json",
+      "@type": "sc:Manifest",
+      "label": "Iola Hughes wedding; Eilir Evans at Cwmorthin; Llechwedd - Feb 2? 1965",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699647.json",
+      "@type": "sc:Manifest",
+      "label": "Nantcol Products - Salem- Mrs London House Dyffryn",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699660.json",
+      "@type": "sc:Manifest",
+      "label": "Myra's wedding and scene in Blaenau Park",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699686.json",
+      "@type": "sc:Manifest",
+      "label": "Ben Jones MP Ffestiniog. Manod entertainers",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699710.json",
+      "@type": "sc:Manifest",
+      "label": "Baby at Caerblaidd - Betty Wallpaper - on the beach at Cricieth - Insurance Dinner at St David's Harlech",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699723.json",
+      "@type": "sc:Manifest",
+      "label": "Camera Club at Cricieth Ted Jones - club also at Butlins",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699736.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699745.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding/MarianJones and John Bowydd Street",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699778.json",
+      "@type": "sc:Manifest",
+      "label": "Staff at NP Bank; tests on new Rollei - Aug-65",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699822.json",
+      "@type": "sc:Manifest",
+      "label": "Mrs Muriel Russel Exams; Mr EH Parry NP-Mrs Meirwen Thomas and Annwen - Ann Williams 21st - Aug-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699826.json",
+      "@type": "sc:Manifest",
+      "label": "Penrhyn Carnival - Band blower - Cambridge Glass houses. at Caerynwch - Jul-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699834.json",
+      "@type": "sc:Manifest",
+      "label": "Scotland - Sep-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699879.json",
+      "@type": "sc:Manifest",
+      "label": "Carnival Concert Llan three ballet girls Hogaiau Moelwyn - Sep-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699892.json",
+      "@type": "sc:Manifest",
+      "label": "Manod Field Gala Groups Mr. and Mrs. John Roberts (Butcher) Llan Carnival Ted Humphreys, Ffestiniog - Aug-70",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699922.json",
+      "@type": "sc:Manifest",
+      "label": "Marian Evans - Ifan Robert Wedding No.1 - Aug-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699939.json",
+      "@type": "sc:Manifest",
+      "label": "Label absent",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699961.json",
+      "@type": "sc:Manifest",
+      "label": "Dr. Glyn Jones - Fred Ambulance - Parties at square - Dorvil - Tanygrisiau and lord street - Jul-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699978.json",
+      "@type": "sc:Manifest",
+      "label": "Prince of Wales in Blaenau - 3rd July 1969",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700028.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700094.json",
+      "@type": "sc:Manifest",
+      "label": "Trawsfynydd and Penrhyn Carnival - (three negs) - Jul-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700134.json",
+      "@type": "sc:Manifest",
+      "label": "Radio Relay (Best) with Blaenau Carnival on the Street - Jul-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4693461R.json",
+      "@type": "sc:Manifest",
+      "label": "10. The square Afallon Tanygrisiau Afon Barlwyd. Slate Quarries Boys 1934 Trawsfynydd School copy. Copy F.C.S. 1923 Ann a Colin Bowydd press - Sep-77",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4695247.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4695839.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696933.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696996.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697585.json",
+      "@type": "sc:Manifest",
+      "label": "Camera Club and two Marian Bryfdir Jones",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697619.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697639.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697643.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697731.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698525.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698530.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698546.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698548.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698679.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698692.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698702.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698713.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698721.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698742.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698768.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698781.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4693626.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4694187.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699127R.json",
+      "@type": "sc:Manifest",
+      "label": "Mrs. M. A. Roberts, Hen Lwyn Gell. March 1968. Camera Outdoor Blaenau - Mar-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699151R.json",
+      "@type": "sc:Manifest",
+      "label": "First female Etchel inside factory. Lavinia Ledward, Haelfryn - Jan-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699159R.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding, Eleanor and John Film 1 (Doris-Poopa) - Feb-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699176R.json",
+      "@type": "sc:Manifest",
+      "label": "Part Wedding Branwen, Dolgellau - Church at Llan - Mar-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699282R.json",
+      "@type": "sc:Manifest",
+      "label": "Bolger wedding no.2 - Mar-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699311R.json",
+      "@type": "sc:Manifest",
+      "label": "Ballet/Port. Scene/Tanygrisiau Institute/Rhagfuryn Pierce",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699323R.json",
+      "@type": "sc:Manifest",
+      "label": "Sheep dog Dyffryn/Baby Betty Bala/Girls on bridge",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699373R.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Marian Jones and John, Bowydd Street",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699542R.json",
+      "@type": "sc:Manifest",
+      "label": "Bala wedding/March 1965/Davina/in part Anwen ysgol sir/car David Ellis - Mar-65",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699673R.json",
+      "@type": "sc:Manifest",
+      "label": "At Church Hall and a mystery wedding",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699698R.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Dr Darbyshire",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699792R.json",
+      "@type": "sc:Manifest",
+      "label": "Mrs Eliz, Parry's Terrace-June Wright - Rev Glynne Evans, wife and son-Mr and Mrs R G Griffiths, Tanygrisiau - Penrhyn Carnival - Jul-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699805R.json",
+      "@type": "sc:Manifest",
+      "label": "Gwenan Evans - Mr & Mrs Idris Williams - Mrs Moira Roberts - Mrs Newton, Pont yr Afon Gam - Wil Richards, Baron Road - Ceinwen Thomas - Aug-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699862R.json",
+      "@type": "sc:Manifest",
+      "label": "Mr. W. Williams, Royal Oak, Ponrhyneu*raeth - Reg, Guest and friends at Port Meirion - self portrait - Jul-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699909R.json",
+      "@type": "sc:Manifest",
+      "label": "Sylvia Ann Jones - Ann Pritchard, Wynne Road, Plas Weunydd Park Flowers - Maenofferen Schools - Septemeber 1969",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699991R.json",
+      "@type": "sc:Manifest",
+      "label": "Blaenau Carnival - Jul-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700072R.json",
+      "@type": "sc:Manifest",
+      "label": "Megan Griffiths, Isaltt - Miss Playter - Aberfan - Llan Carnival - Rhian, Bala - Sep-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700085R.json",
+      "@type": "sc:Manifest",
+      "label": "Mr. and Mrs. W. H. Carr - Miss Eurwen Jones, Manod - Miss Lily Davies, Gellilydan - Prince Charles at Caernarvon - Jul-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700111R.json",
+      "@type": "sc:Manifest",
+      "label": "Part wedding Alwena - Baby at wedding - Brynmaes baby - Mr. and Mrs, Bob Pollock - Robert A. Lewis, Cyfnod Office girl - Moon Shot Tudor Ll. Wms, Mona Trawsfynydd - Aug-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700128R.json",
+      "@type": "sc:Manifest",
+      "label": "Bob Roberts Detroit - Griff Williams, Harlech - Semptember 1969",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700154R.json",
+      "@type": "sc:Manifest",
+      "label": "Blaenau Band - Mr. and Mrs. Ellia Jones and Son. Cambrian Kotor - Queen comp. Forum - Judges - Rose Bud. - Mrs. Cow - Jul-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700167R.json",
+      "@type": "sc:Manifest",
+      "label": "Mr. and Mrs. Richards, Brynofferen - Mrs. K.E. Manig, Can y coed Isaf, Maentwrog Miss Jean Griffiths Forester's Abuse Ffestiniog. - Rollei tests - Aug-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700177R.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Bethan Davies Y Gopa Trawsfynydd. No.2 - Jul-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700263R.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700270R.json",
+      "@type": "sc:Manifest",
+      "label": "Dyffryn Tent/ Spot/ St. Frothen Church",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700382R.json",
+      "@type": "sc:Manifest",
+      "label": "Ysgol Moelwyn School Band. Cookery girls - Marwood - Swimming winner - Mrs. Richard Parry. Jim Mair",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700405R.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding, Gaynor Lloyd-Jones, John Garrad, Chester. Film B",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700439R.json",
+      "@type": "sc:Manifest",
+      "label": "Chester Zoo with Blaenau Camera Club - Wedding at Bowydd Chapel?",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700452R.json",
+      "@type": "sc:Manifest",
+      "label": "Film 2, Masons at Criccieth - Apr-65",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700528R.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Reese Jones. Bobby/ Myra/ Marian Bryfdir Jones",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700545R.json",
+      "@type": "sc:Manifest",
+      "label": "Hugh Trawsfynydd and bride. Ted Jones Eilir at Dolmoch - Three little girsl. Betty ??? Passports",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700588R.json",
+      "@type": "sc:Manifest",
+      "label": "Wed. Gewnda Lewis/ Tilia Bach/ 11 Talweunydd/ Alwena. Llechwedd - Apr-65",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700613R.json",
+      "@type": "sc:Manifest",
+      "label": "Llan - fire. Wedding - Dianh McShane - Copy for New York - Jun-65",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700716R.json",
+      "@type": "sc:Manifest",
+      "label": "Fancy Dress, Abby Arms, Myra & Michael - Feb-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700738R.json",
+      "@type": "sc:Manifest",
+      "label": "Mrs. W. J. Roberts Den, Bl., Mrs J. Olwen Berkley, Postmen Blaenau - Jan-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700744R.json",
+      "@type": "sc:Manifest",
+      "label": "Hefina, Islwyn Manod. Confirmation St. Martha - Feb-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700769R.json",
+      "@type": "sc:Manifest",
+      "label": "Harlech Television at Portmeirion - Feb-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700784R.json",
+      "@type": "sc:Manifest",
+      "label": "St. David's restoration, St. David's outside - Glenys Williams - Feb-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700793R.json",
+      "@type": "sc:Manifest",
+      "label": "Union presentation cheque. Rhianon V. Jones, Manod.. Gwyn V Jones 150 High Strett. Self-bounce in shop - Music Society cello. Antique plate",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700805R.json",
+      "@type": "sc:Manifest",
+      "label": "Mona Talweun Ydd, Meinir etc. Vicarage in Church forecourt - Snow on Minaint - Emlyn Jones - Annedd Deg - Geraint Parry, Ffestiniog. - Mrs Penhall - Feb-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700818R.json",
+      "@type": "sc:Manifest",
+      "label": "Gwenda Don's baby - G. M.'s Cemetary - Golf objector - Feb-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700831R.json",
+      "@type": "sc:Manifest",
+      "label": "Ann Preston - Prysor and girl friend - Gwyneth Humphreys - Meinir Edwards Trawsfynydd - Mrs. McNeil, John A. Heath - Maldwyn, Postman's family, Manod - March 1969 - April",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700847R.json",
+      "@type": "sc:Manifest",
+      "label": "Eryl Jones, Drws y coed. - Mr. and Mrs. J. Williams Granville. Herbert's baby Williams, Welsh money man - Mar-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4700859R.json",
+      "@type": "sc:Manifest",
+      "label": "Tom Don - Rowenna Hughes - Shirley Stone - R. D. Williams, Glanypwll. Michael Parry - Freda Williams, with fashion - Mar-69",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701272R.json",
+      "@type": "sc:Manifest",
+      "label": "Box 1 http://celynin.wyddfa.llgc.org.uk/classic/benchmarking/Photographic-Bench_Model4_v1-0.docx",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701290R.json",
+      "@type": "sc:Manifest",
+      "label": "(G.W.R. OAP) Glorian (old). Bristol Car. copies Mrs. Jones Bells. Copies for Llafr Calender Play Fields - Jul-77",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4701307R.json",
+      "@type": "sc:Manifest",
+      "label": "Fron fawr baby - Tanygrisiau Party - Cledwyn Jones - Madoc Jones - 1966",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4695715R.json",
+      "@type": "sc:Manifest",
+      "label": "Roberts's Manod-Ardudwy bird- Gwenne, Myra-Ericka Vaughan-Empty Church st - Jun-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4695745R.json",
+      "@type": "sc:Manifest",
+      "label": "Pardt Wedd.Mair Ll. Jones Nia-Traws. Passports and Van",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4695796R.json",
+      "@type": "sc:Manifest",
+      "label": "Talweunydd scenes Mrs. Davies - Mrs. Roberts Plas Bwlch Gwynt.Sensitive content",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4695813R.json",
+      "@type": "sc:Manifest",
+      "label": "Motor Cycle- Mona Meirion Llan - Jun-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4695876R.json",
+      "@type": "sc:Manifest",
+      "label": "The Square - Gwenith - Irene Evans - Bruce - Bolton Cafe - Mrs Powell - Pathfinder camp at Dyffryn",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4695904R.json",
+      "@type": "sc:Manifest",
+      "label": "Baby Sq.- Arthur Holland - Queen Joyce at Sq - Traws coronation 1967 - Bloor - Jul-67",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4695941R.json",
+      "@type": "sc:Manifest",
+      "label": "Mrs Roberts, Llwyn Gell - Davies, Trawsfynydd - 1967 carnival - Jul-67",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4695997R.json",
+      "@type": "sc:Manifest",
+      "label": "Susan Dobbs - Gwilym Lewis, Manod - Q.E. Southampton - Mrs Palmer USA Pengwern - Sep-67",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696010R.json",
+      "@type": "sc:Manifest",
+      "label": "Morris Dancers - Bed cover - Hope - Garden - Mrs C Davies - Melinda Jones - Lumley - Toc H - Ann Harries - Nia Jones - Jul-67",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696057R.json",
+      "@type": "sc:Manifest",
+      "label": "Richards, Brynofferen - Mrs Genner, Dolwyddelan - carnival Forum - Tom Don - Cor Tanygrisiau - Jul-67",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696084R.json",
+      "@type": "sc:Manifest",
+      "label": "Part Jean Owen - Trawsfynydd, Glenys Davies - Mrs Thomas (W.O.) - Sep-67",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696113R.json",
+      "@type": "sc:Manifest",
+      "label": "Part Margaret and Eifion wedding - Jones, Forum View - Stan Roberts and family - Sep-67",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696126R.json",
+      "@type": "sc:Manifest",
+      "label": "David Wms-Jones st Traws Queen and Carnival - Mrs Ellis Jones - Jul-67",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696160R.json",
+      "@type": "sc:Manifest",
+      "label": "Gwyndaf and Ceridwen, Peniel Llwyngwril Film 1 - September 9th 1967",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696245R.json",
+      "@type": "sc:Manifest",
+      "label": "Pass T. Jones Ffestiniog - Ysgol Ardudwy - three ysgol sir Pass",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696339R.json",
+      "@type": "sc:Manifest",
+      "label": "\"Wedding\" Valerie and Ellis Edwards . . . . No2 Mrs Robins - Aug-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696390R.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding Carol and John Ellis and Janet Macateer - Sep-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696475R.json",
+      "@type": "sc:Manifest",
+      "label": "Ballet Girls Bala winners. Tom Morgan; part 2 wedding Raymond; Llan carnival - Aug-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696523R.json",
+      "@type": "sc:Manifest",
+      "label": "For Mr Chamberlain. Humphrey Davies, Wynne Road, St Mary, Llanegryn; Jean's daughter (hospital) - Aug-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696535R.json",
+      "@type": "sc:Manifest",
+      "label": "Nesta Davies, Trawsfynydd; Hilda Urand, Trawsfynydd; Grace Jones, Garage, Blaenau; Llechwedd graduates; Lusitania copy; car gwyllt running (copy); Fashion book exercise - Sep-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696544R.json",
+      "@type": "sc:Manifest",
+      "label": "Richard Williams, Trawsfynydd; Judo Group Urdd; Reception Tyddyn Bach - Sep-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696567R.json",
+      "@type": "sc:Manifest",
+      "label": "Copies from calendar; Pat's baby and Mark flats; Maentwrog Curch; Sylvia Ann - Jul-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696601R.json",
+      "@type": "sc:Manifest",
+      "label": "J Jones, Plasweunydd Lodge; copies: Blaenau soldier, Trawsfynydd old photos and Blaenau old photos - Jul-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696635R.json",
+      "@type": "sc:Manifest",
+      "label": "Myfanwy Hughes (Huws), Trawsfynydd; Holiday /72 - Sep-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696666R.json",
+      "@type": "sc:Manifest",
+      "label": "Arthur Cooke Thomas; Manod Church; copies of Army; Nia and Gareth Bala - Jul-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696694R.json",
+      "@type": "sc:Manifest",
+      "label": "Sylvia Ann Jones; Glenys Jones baby (garage); Rosina's baby; Mrs L Tintall, (Gellilydan); Factory Tanygrisiau; Copy for Hugh (Rhiw); Myra and Mark - Jul-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696711R.json",
+      "@type": "sc:Manifest",
+      "label": "Lyndale Hotel; Herbert Thomas, C News; Edmwnd Prys; Glyn Bryfdir a Doris; Margaret Jones Flat 8; Mrs Bristow; Mrs Joan Jones, Fron Fawr - Jul-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696778R.json",
+      "@type": "sc:Manifest",
+      "label": "Penmachno Carnival. Susan Bristow (Commercial), Caren Jones, Llan - Aug-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696838R.json",
+      "@type": "sc:Manifest",
+      "label": "Tanymanod Hall; Mr Dewi Perkins; Mr & Mrs E Thomas & David Thomas. Blaenau Views. Uncorn Cottage. John Williams Manweb. Queen Elizabeth (copy) copy for Eurwyn - Aug-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4696853R.json",
+      "@type": "sc:Manifest",
+      "label": "Blaenau Carnival. Mrs Hannah Tucker. Mr & Mrs John Morgan. Miss Pam Slight. Dolmoch - Jul-72",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697305R.json",
+      "@type": "sc:Manifest",
+      "label": "Ysgol Ardudwy - Portraits of Myra - Mar-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697335R.json",
+      "@type": "sc:Manifest",
+      "label": "B.B.C.O. Lan li Lan Forum",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697369R.json",
+      "@type": "sc:Manifest",
+      "label": "Rhiw Court Case - Penhall - Gwyafor Edwards no.2- L. R. Lewis. Wm. Harris, Caernarvon - Jan-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697402R.json",
+      "@type": "sc:Manifest",
+      "label": "Ernest Jones - E.A. Jones - Llan Wed. Rhiw Court Case - Gwynfor Edwards - Jan-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697415R.json",
+      "@type": "sc:Manifest",
+      "label": "Cynfal Establishment - Mrs Frances - Beibl 1588 - Mar-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697428R.json",
+      "@type": "sc:Manifest",
+      "label": "West Brom/ St. John's/ Chinese Girl - Mar-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697484R.json",
+      "@type": "sc:Manifest",
+      "label": "Morris Jones - Betty Morgan Evans, Tanybwlch (Wedding) Gwyndaf Evans and Robin- Evans Penrhyndeudr - Jan-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697497R.json",
+      "@type": "sc:Manifest",
+      "label": "Darby and Joan W. Institute Dewi Jones, Passport - Jan-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697509R.json",
+      "@type": "sc:Manifest",
+      "label": "Various Passports Y.H.A. Pig Maehtwrog - Mar-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697522R.json",
+      "@type": "sc:Manifest",
+      "label": "Fire Brigade - Llan Drama - Terry Rea - David Ll. Jones - Ysgol Harlech no.3 - Mar-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697539R.json",
+      "@type": "sc:Manifest",
+      "label": "Tock H - Meirion Davies. Jake Williams - Mar-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697587R.json",
+      "@type": "sc:Manifest",
+      "label": "Camera Club and two Marian Bryfdir Jones",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697660R.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding photo Myrfyn Ganllwyd - TV baby; Wright Tanygrisiau baby woolshop",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697736R.json",
+      "@type": "sc:Manifest",
+      "label": "Wedding at Llandaff Cathedral - scenes inside the cathedral - Reed, Llanbedr. Russian party at castle",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697767R.json",
+      "@type": "sc:Manifest",
+      "label": "Playfield - Little Vince - Ysgol Sir Passports - Dentist - Jul-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697814R.json",
+      "@type": "sc:Manifest",
+      "label": "Prentis Baby - Dyffryn P.P. Mrs. J.J. Roberts -David Ellis Wedding - Sep-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697826R.json",
+      "@type": "sc:Manifest",
+      "label": "Williams Glyn Dairy - Matro M.M - John Harlech - Ivor and family - Marian Lord street Caernarvon - Sep-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697856R.json",
+      "@type": "sc:Manifest",
+      "label": "Etchells -Ceinwen -Glaslyn Bala Passport - Sep-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697868R.json",
+      "@type": "sc:Manifest",
+      "label": "Dyffryn baby - Ysgol passport - Jack Lloyd - Amsterdam - Mrs Evans - Tany. School - Etchells Mrs. M.P. - Manod - Traws. Ladies - Jul-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697884R.json",
+      "@type": "sc:Manifest",
+      "label": "Traws. Queen - Blaenau Carnival no.1 Diamond - Evans passport - Evans Glanpwll July 1966 - Jul-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697901R.json",
+      "@type": "sc:Manifest",
+      "label": "Etchells - Lol passport - Llan Dance - Bryn Blodau single - Sep-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697912R.json",
+      "@type": "sc:Manifest",
+      "label": "Timothy Jones - Etchells - Copper pot - Sep-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697937R.json",
+      "@type": "sc:Manifest",
+      "label": "Part Don Wedd Cavern Liverpool - Jul-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697967R.json",
+      "@type": "sc:Manifest",
+      "label": "Cowlin - Tony Funeral - Megan Lewis - Lois Mother and Dad - Gwyneth - Miss Jones, Woolworths - Dewi's Sister",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697977R.json",
+      "@type": "sc:Manifest",
+      "label": "John Roberts - Matron Griffiths - Gweunydd's mother - Jul-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697987R.json",
+      "@type": "sc:Manifest",
+      "label": "Christening Dick Griffiths - Passports Ffestiniog. - Horst on Moelwyn. July 1966 - Jul-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4697997R.json",
+      "@type": "sc:Manifest",
+      "label": "Savings - Joyce Davies - Manod School - Morocco - Mrs Buelaw - Mr and Mrss Taylor - Bryn Blodau - Sep-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698010R.json",
+      "@type": "sc:Manifest",
+      "label": "Gwenne and Betty - National Park Information Staff. Llan Passport - Jul-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698053R.json",
+      "@type": "sc:Manifest",
+      "label": "Evelyn Wedding (3) Mrs. C. Jones - Mouse-",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698166R.json",
+      "@type": "sc:Manifest",
+      "label": "Helen and Wyn Wedding no.3 37 with Brian and Evelyn - August",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698192R.json",
+      "@type": "sc:Manifest",
+      "label": "Llan wedding - Glyn Dairy - Tal - Roberts - Rowlands - Traws. 88 - Jul-66",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698252R.json",
+      "@type": "sc:Manifest",
+      "label": "John LL. Jones - Sylvia Ann Jones - Gareth Jones Robert Gas Men - Welfare centre - Sep-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698265R.json",
+      "@type": "sc:Manifest",
+      "label": "Part Len Wedding Blodaen, Llan - John Evans Guitarist - passport ??? John LL. Jones, Manod? - Aug-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698325R.json",
+      "@type": "sc:Manifest",
+      "label": "Miss. Eliz. Wyn Jones Bronallt, Ffestiniog - Mr. Hughes Italian House, Ffest Herbert Jones- Raymond Jones - Jul-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698337R.json",
+      "@type": "sc:Manifest",
+      "label": "Mair Evans, Harlech - Dafydd yr Hall - Glenys Davies - Blaenau Carnival 68 - Jul-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698378R.json",
+      "@type": "sc:Manifest",
+      "label": "John Bond and Katherine Parry, Dolgellau No3",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698391R.json",
+      "@type": "sc:Manifest",
+      "label": "Duncalfe Colwyn Bay Williams Blue Star Aug 1968 - Aug-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698424R.json",
+      "@type": "sc:Manifest",
+      "label": "Mrs. E. Roberts, 6, Bowydd",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698436R.json",
+      "@type": "sc:Manifest",
+      "label": "John Bond Katherine Parry DolgellauNo.4 - July 20th",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698447R.json",
+      "@type": "sc:Manifest",
+      "label": "Part Katherine Parry Denis Roberts' daughter - E. Jones, Derwen, Maentwrog - July",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698533R.json",
+      "@type": "sc:Manifest",
+      "label": "Golden Lion Baby, Dolgellau Nigel Hughes Jones Sq. Cow - Sep-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698563R.json",
+      "@type": "sc:Manifest",
+      "label": "Etchells return of nine- Polecoff passports - PC Davies Tanygrisiau - Will and Bessie Tanybwlch",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698585R.json",
+      "@type": "sc:Manifest",
+      "label": "Cor Moelwyn/El Davies/Old Bl. Lion/Trebor; Music Society Artists",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698598R.json",
+      "@type": "sc:Manifest",
+      "label": "Employees Hope Manufact. Trefor Davies Jones - Relatives Glyn Dairy from USA",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698611R.json",
+      "@type": "sc:Manifest",
+      "label": "TA Presentation/Ski on Migneint with Carey and John/Cyril Roberts/Gum Machine lad",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698624R.json",
+      "@type": "sc:Manifest",
+      "label": "Marg GFS/Forum/Meirion/Cowboys/NP Bank/Russel",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698637R.json",
+      "@type": "sc:Manifest",
+      "label": "Tom and Blodwen-Imperial Wallpaper - Holyhead - Sep",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698734R.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698755R.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698825R.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698869R.json",
+      "@type": "sc:Manifest",
+      "label": "No title",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698935R.json",
+      "@type": "sc:Manifest",
+      "label": "Etchells signing on Traws Passport - Apr-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4698951R.json",
+      "@type": "sc:Manifest",
+      "label": "C. E. G. B. party, Tanygrisiau. Mrs. Evans-Owens Manod - Jan-68",
+      "description": ""
+    },
+    {
+      "@id": "https://datasyllwr.llgc.org.uk/manifests/gle/4699010R.json",
+      "@type": "sc:Manifest",
+      "label": "Elizabeth Williams, 21, Manod Road, Wedding, Film No.1 - Mar-68",
+      "description": ""
+    }
+  ]
+}
