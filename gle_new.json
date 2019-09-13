@@ -256,8 +256,8 @@
                         "@value": "2017-06-28T09:21:30+00:00"
                     },
                     "o:owner": {
-                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
-                        "o:id": "1"
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/440",
+                        "o:id": "440"
                     },
                     "o:resource_class": {
                         "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
@@ -289,7 +289,28 @@
                         "o:label": "oa:tagging"
                     },
                     "crowds:uiHidden": "False",
-                    "crowds:uiInputOptions": "['1960', '1961', '1962', '1963', '1964', '1965', '1966', '1967', '1968', '1969', '1970', '1971', '1972', '1973', '1974', '1975', '1976', '1977', '1978', '1979']",
+                    "crowds:uiInputOptions": [
+                        "1960",
+                        "1961",
+                        "1962",
+                        "1963",
+                        "1964",
+                        "1965",
+                        "1966",
+                        "1967",
+                        "1968",
+                        "1969",
+                        "1970",
+                        "1971",
+                        "1972",
+                        "1973",
+                        "1974",
+                        "1975",
+                        "1976",
+                        "1977",
+                        "1978",
+                        "1979"
+                    ],
                     "crowds:uiInputType": {
                         "@id": "madoc:dropdown",
                         "o:label": "madoc:dropdown"
@@ -309,8 +330,8 @@
                         "@value": "2017-06-28T09:21:30+00:00"
                     },
                     "o:owner": {
-                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
-                        "o:id": "1"
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/440",
+                        "o:id": "440"
                     },
                     "o:resource_class": {
                         "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
@@ -361,8 +382,8 @@
                         "@value": "2017-06-28T09:21:30+00:00"
                     },
                     "o:owner": {
-                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
-                        "o:id": "1"
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/440",
+                        "o:id": "440"
                     },
                     "o:resource_class": {
                         "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
@@ -413,8 +434,8 @@
                         "@value": "2017-06-28T09:21:30+00:00"
                     },
                     "o:owner": {
-                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
-                        "o:id": "1"
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/440",
+                        "o:id": "440"
                     },
                     "o:resource_class": {
                         "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
@@ -440,8 +461,8 @@
                 "@value": "2017-06-28T09:21:30+00:00"
             },
             "o:owner": {
-                "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
-                "o:id": "1"
+                "@id": "https://omeka.nlw.digtest.co.uk/api/users/440",
+                "o:id": "440"
             },
             "o:resource_class": {
                 "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
@@ -605,8 +626,8 @@
                         "@value": "2017-06-28T09:21:30+00:00"
                     },
                     "o:owner": {
-                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
-                        "o:id": "1"
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/440",
+                        "o:id": "440"
                     },
                     "o:resource_class": {
                         "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
@@ -657,8 +678,8 @@
                         "@value": "2017-06-28T09:21:30+00:00"
                     },
                     "o:owner": {
-                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
-                        "o:id": "1"
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/440",
+                        "o:id": "440"
                     },
                     "o:resource_class": {
                         "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
@@ -684,8 +705,8 @@
                 "@value": "2017-06-28T09:21:30+00:00"
             },
             "o:owner": {
-                "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
-                "o:id": "1"
+                "@id": "https://omeka.nlw.digtest.co.uk/api/users/440",
+                "o:id": "440"
             },
             "o:resource_class": {
                 "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
@@ -842,8 +863,8 @@
                         "@value": "2017-06-28T09:21:30+00:00"
                     },
                     "o:owner": {
-                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
-                        "o:id": "1"
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/440",
+                        "o:id": "440"
                     },
                     "o:resource_class": {
                         "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
@@ -894,8 +915,8 @@
                         "@value": "2017-06-28T09:21:30+00:00"
                     },
                     "o:owner": {
-                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
-                        "o:id": "1"
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/440",
+                        "o:id": "440"
                     },
                     "o:resource_class": {
                         "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
@@ -921,8 +942,8 @@
                 "@value": "2017-06-28T09:21:30+00:00"
             },
             "o:owner": {
-                "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
-                "o:id": "1"
+                "@id": "https://omeka.nlw.digtest.co.uk/api/users/440",
+                "o:id": "440"
             },
             "o:resource_class": {
                 "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
@@ -936,7 +957,7 @@
         }
     ],
     "dcterms:identifier": "1",
-    "dcterms:title": "Choose what you want to tag",
+    "dcterms:title": "Choose what you want to tag (date list test)",
     "dcterms:type": {
         "@id": "http://www.digirati.com/ns/madoc#group",
         "o:label": "madoc:group"
@@ -948,8 +969,8 @@
         "@value": "2017-06-28T09:21:30+00:00"
     },
     "o:owner": {
-        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
-        "o:id": "1"
+        "@id": "https://omeka.nlw.digtest.co.uk/api/users/440",
+        "o:id": "440"
     },
     "o:resource_class": {
         "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
