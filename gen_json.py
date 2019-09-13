@@ -54,6 +54,8 @@ def qname_to_id(val):
     :return: string of form http://www.example.com/namespace#local
     """
     if val:
+        # check if the colon containing string isn't a date time (as might be used as a default value for a
+        # calendar control).
         pattern = re.compile("\d\d\d\d[-]\d\d[-]\d\d[T]\d\d[:]\d\d[:]\d\d[+]\d\d[:]\d\d")
         if ':' in val and 'http://' not in val and not pattern.match(val):
             ns, value = val.split(':')
