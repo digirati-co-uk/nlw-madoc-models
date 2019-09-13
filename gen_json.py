@@ -7,7 +7,7 @@ import urllib.parse as parse
 # noinspection PyCompatibility
 from urllib.request import url2pathname
 from collections import OrderedDict
-
+import re
 import ontospy
 import requests
 import unicodecsv as csv
@@ -54,7 +54,8 @@ def qname_to_id(val):
     :return: string of form http://www.example.com/namespace#local
     """
     if val:
-        if ':' in val and 'http://' not in val:
+        pattern = re.compile("\d\d\d\d[-]\d\d[-]\d\d[T]\d\d[:]\d\d[:]\d\d[+]\d\d[:]\d\d")
+        if ':' in val and 'http://' not in val and not pattern.match(val):
             ns, value = val.split(':')
             # noinspection PyBroadException
             if ns in namespaces:

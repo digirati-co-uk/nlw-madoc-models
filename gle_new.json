@@ -237,6 +237,7 @@
                         "o:label": "oa:tagging"
                     },
                     "crowds:uiHidden": "False",
+                    "crowds:uiInputDefaultValue": "1965-01-01T14:50:35+00:00",
                     "crowds:uiInputType": {
                         "@id": "madoc:datepicker",
                         "o:label": "madoc:datepicker"
