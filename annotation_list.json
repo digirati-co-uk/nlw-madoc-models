@@ -1,214 +1,216 @@
 [
   {
-  "generator": "https://madoc.foo/capture-models/get/?resources=[annoid, canvasid, manifestid, site_id]",
-  "struct": {
-    "choice": [
-      {
-        "id": "person",
-        "title": "Person",
-        "description": "Move the red box to highlight one person and enter information. You can repeat this.",
-        "fields": [
-          "person.name",
-          "person.description"
-        ]
-      },
-      {
-        "id": "photo",
-        "title": "Whole photograph",
-        "description": "Describe the whole photograph",
-        "fields": [
-          "photo.date",
-          "photo.year",
-          "photo.map",
-          "photo.description"
-        ]
-      }
-    ],
-    "selected": ["person"]
-  },
-  "fields": {
-    "person.name": [
-      {
-        "title": "What is this person's name?",
-        "description": "Please enter the first name and surname.",
-        "value": "Machine Gun McGinty",
-        "conformsTo": "https://schema.org/name",
-        "inputType": "text",
-        "motivation": "identifying",
-        "created": "2019-05-17T09:11:44+00:00",
-        "creator": {
-          "id": "https://omeka.foo/admin/user/1",
-          "type": "Person",
-          "email_sha1": "20c7467091102bee73352e97a925c411107c8e8b",
-          "name": "Matt McGrattan",
-          "nickname": "Matt"
+    "generator": "https://madoc.foo/capture-models/get/?resources=[annoid, canvasid, manifestid, site_id]",
+    "struct": {
+      "choice": [
+        {
+          "id": "person",
+          "title": "Person",
+          "description": "Move the red box to highlight one person and enter information. You can repeat this.",
+          "fields": [
+            "person.name",
+            "person.description"
+          ]
         },
-        "target": [
-          {
-            "type": "SpecificResource",
-            "dcterms:isPartOf": "https://madoc.foo/manifest/1",
-            "selector": {
-              "type": "FragmentSelector",
-              "conformsTo": "http://www.w3.org/TR/media-frags/",
-              "value": "xywh=0,0,100,100"
-            },
-            "source": "https://madoc.foo/manifest/1/canvas1"
-          }
-        ]
-      },
-      {
-        "title": "What is this person's name?",
-        "description": "Please enter the first name and surname.",
-        "value": "Chips Moman",
-        "conformsTo": "https://schema.org/name",
-        "inputType": "text",
-        "motivation": "identifying",
-        "created": "2019-05-17T09:13:44+00:00",
-        "creator": {
-          "id": "https://omeka.foo/admin/user/1",
-          "type": "Person",
-          "email_sha1": "20c7467091102bee73352e97a925c411107c8e8b",
-          "name": "Matt McGrattan",
-          "nickname": "Matt"
-        },
-        "target": [
-          {
-            "type": "SpecificResource",
-            "dcterms:isPartOf": "https://madoc.foo/manifest/1",
-            "selector": {
-              "type": "FragmentSelector",
-              "conformsTo": "http://www.w3.org/TR/media-frags/",
-              "value": "xywh=300,100,400,900"
-            },
-            "source": "https://madoc.foo/manifest/1/canvas1"
-          }
-        ]
-      }
-    ],
-    "person.description": [
-      {
-        "title": "Enter any other information about this person.",
-        "description": "Please add any other information you have about this person.",
-        "conformsTo": "https://purl.org/dcterms/dscription",
-       "value": "Fastest gun in West Wales.",
-        "inputType": "textarea",
-        "motivation": "identifying",
-        "created": "2019-05-17T09:11:44+00:00",
-        "creator": {
-          "id": "https://omeka.foo/admin/user/1",
-          "type": "Person",
-          "email_sha1": "20c7467091102bee73352e97a925c411107c8e8b",
-          "name": "Matt McGrattan",
-          "nickname": "Matt"
-        },
-        "target": [
-          {
-            "type": "SpecificResource",
-            "dcterms:isPartOf": "https://madoc.foo/manifest/1",
-            "selector": {
-              "type": "FragmentSelector",
-              "conformsTo": "http://www.w3.org/TR/media-frags/",
-              "value": "xywh=0,0,100,100"
-            },
-            "source": "https://madoc.foo/manifest/1/canvas1"
-          }
-        ]
-      },
-      {
-        "title": "Enter any other information about this person.",
-        "description": "Please add any other information you have about this person.",
-        "conformsTo": "https://purl.org/dcterms/dscription",
-        "value": null,
-        "inputType": "textarea",
-        "motivation": "identifying",
-        "created": "2019-05-17T09:13:44+00:00",
-        "creator": {
-          "id": "https://omeka.foo/admin/user/1",
-          "type": "Person",
-          "email_sha1": "20c7467091102bee73352e97a925c411107c8e8b",
-          "name": "Matt McGrattan",
-          "nickname": "Matt"
-        },
-        "target": [
-          {
-            "type": "SpecificResource",
-            "dcterms:isPartOf": "https://madoc.foo/manifest/1",
-            "selector": {
-              "type": "FragmentSelector",
-              "conformsTo": "http://www.w3.org/TR/media-frags/",
-              "value": "xywh=300,100,400,900"
-            },
-            "source": "https://madoc.foo/manifest/1/canvas1"
-          }
-        ]
-      }
-    ],
-    "photo.date": [
-      {
-        "title": "What is the exact date this photograph was taken? (DD/MM/YYYY)",
-        "description": "Leave blank if you don't know.",
-        "conformsTo": "https://schema.org/dateCreated",
-        "value": null,
-        "inputType": "date",
-        "motivation": "describing",
-        "created": null,
-        "creator": {
-          "id": null,
-          "type": "Person",
-          "email_sha1": null,
-          "name": null,
-          "nickname": null
-        },
-        "target": {
-          "type": "SpecificResource",
-          "source": null
+        {
+          "id": "photo",
+          "title": "Whole photograph",
+          "description": "Describe the whole photograph",
+          "fields": [
+            "photo.date",
+            "photo.year",
+            "photo.map",
+            "photo.description"
+          ]
         }
-      }
-    ],
-    "photo.year": [
-      {
-        "title": "Year taken.",
-        "description": "Leave blank if you don't know.",
-        "conformsTo": "https://schema.org/dateCreated",
-        "value": null,
-        "inputType": "list",
-        "motivation": "describing",
-        "created": null,
-        "creator": {
-          "id": null,
-          "type": "Person",
-          "email_sha1": null,
-          "name": null,
-          "nickname": null
+      ],
+      "selected": [
+        "person"
+      ]
+    },
+    "fields": {
+      "person.name": [
+        {
+          "title": "What is this person's name?",
+          "description": "Please enter the first name and surname.",
+          "value": "Machine Gun McGinty",
+          "conformsTo": "https://schema.org/name",
+          "inputType": "text",
+          "motivation": "identifying",
+          "created": "2019-05-17T09:11:44+00:00",
+          "creator": {
+            "id": "https://omeka.foo/admin/user/1",
+            "type": "Person",
+            "email_sha1": "20c7467091102bee73352e97a925c411107c8e8b",
+            "name": "Matt McGrattan",
+            "nickname": "Matt"
+          },
+          "target": [
+            {
+              "type": "SpecificResource",
+              "dcterms:isPartOf": "https://madoc.foo/manifest/1",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=0,0,100,100"
+              },
+              "source": "https://madoc.foo/manifest/1/canvas1"
+            }
+          ]
         },
-        "target": {
-          "type": "SpecificResource",
-          "source": null
+        {
+          "title": "What is this person's name?",
+          "description": "Please enter the first name and surname.",
+          "value": "Chips Moman",
+          "conformsTo": "https://schema.org/name",
+          "inputType": "text",
+          "motivation": "identifying",
+          "created": "2019-05-17T09:13:44+00:00",
+          "creator": {
+            "id": "https://omeka.foo/admin/user/1",
+            "type": "Person",
+            "email_sha1": "20c7467091102bee73352e97a925c411107c8e8b",
+            "name": "Matt McGrattan",
+            "nickname": "Matt"
+          },
+          "target": [
+            {
+              "type": "SpecificResource",
+              "dcterms:isPartOf": "https://madoc.foo/manifest/1",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=300,100,400,900"
+              },
+              "source": "https://madoc.foo/manifest/1/canvas1"
+            }
+          ]
         }
-      }
-    ],
-    "photo.map": [
-      {
-        "title": "Place taken.",
-        "description": "Type a town or village, then use the map to pinpoint more exact location.",
-        "conformsTo": "https://schema.org/place",
-        "value": null,
-        "inputType": "map",
-        "motivation": "describing",
-        "created": null,
-        "creator": {
-          "id": null,
-          "type": "Person",
-          "email_sha1": null,
-          "name": null,
-          "nickname": null
+      ],
+      "person.description": [
+        {
+          "title": "Enter any other information about this person.",
+          "description": "Please add any other information you have about this person.",
+          "conformsTo": "https://purl.org/dcterms/dscription",
+          "value": "Fastest gun in West Wales.",
+          "inputType": "textarea",
+          "motivation": "identifying",
+          "created": "2019-05-17T09:11:44+00:00",
+          "creator": {
+            "id": "https://omeka.foo/admin/user/1",
+            "type": "Person",
+            "email_sha1": "20c7467091102bee73352e97a925c411107c8e8b",
+            "name": "Matt McGrattan",
+            "nickname": "Matt"
+          },
+          "target": [
+            {
+              "type": "SpecificResource",
+              "dcterms:isPartOf": "https://madoc.foo/manifest/1",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=0,0,100,100"
+              },
+              "source": "https://madoc.foo/manifest/1/canvas1"
+            }
+          ]
         },
-        "target": {
-          "type": "SpecificResource",
-          "source": null
+        {
+          "title": "Enter any other information about this person.",
+          "description": "Please add any other information you have about this person.",
+          "conformsTo": "https://purl.org/dcterms/dscription",
+          "value": null,
+          "inputType": "textarea",
+          "motivation": "identifying",
+          "created": "2019-05-17T09:13:44+00:00",
+          "creator": {
+            "id": "https://omeka.foo/admin/user/1",
+            "type": "Person",
+            "email_sha1": "20c7467091102bee73352e97a925c411107c8e8b",
+            "name": "Matt McGrattan",
+            "nickname": "Matt"
+          },
+          "target": [
+            {
+              "type": "SpecificResource",
+              "dcterms:isPartOf": "https://madoc.foo/manifest/1",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=300,100,400,900"
+              },
+              "source": "https://madoc.foo/manifest/1/canvas1"
+            }
+          ]
         }
-      }
-    ]
+      ],
+      "photo.date": [
+        {
+          "title": "What is the exact date this photograph was taken? (DD/MM/YYYY)",
+          "description": "Leave blank if you don't know.",
+          "conformsTo": "https://schema.org/dateCreated",
+          "value": null,
+          "inputType": "date",
+          "motivation": "describing",
+          "created": null,
+          "creator": {
+            "id": null,
+            "type": "Person",
+            "email_sha1": null,
+            "name": null,
+            "nickname": null
+          },
+          "target": {
+            "type": "SpecificResource",
+            "source": null
+          }
+        }
+      ],
+      "photo.year": [
+        {
+          "title": "Year taken.",
+          "description": "Leave blank if you don't know.",
+          "conformsTo": "https://schema.org/dateCreated",
+          "value": null,
+          "inputType": "list",
+          "motivation": "describing",
+          "created": null,
+          "creator": {
+            "id": null,
+            "type": "Person",
+            "email_sha1": null,
+            "name": null,
+            "nickname": null
+          },
+          "target": {
+            "type": "SpecificResource",
+            "source": null
+          }
+        }
+      ],
+      "photo.map": [
+        {
+          "title": "Place taken.",
+          "description": "Type a town or village, then use the map to pinpoint more exact location.",
+          "conformsTo": "https://schema.org/place",
+          "value": null,
+          "inputType": "map",
+          "motivation": "describing",
+          "created": null,
+          "creator": {
+            "id": null,
+            "type": "Person",
+            "email_sha1": null,
+            "name": null,
+            "nickname": null
+          },
+          "target": {
+            "type": "SpecificResource",
+            "source": null
+          }
+        }
+      ]
+    }
   }
-}
 ]
