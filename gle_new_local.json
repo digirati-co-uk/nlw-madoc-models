@@ -1,0 +1,985 @@
+{
+    "@context": {
+        "bibo": {
+            "@id": "http://purl.org/ontology/bibo/",
+            "vocabulary_id": "3",
+            "vocabulary_label": "Bibliographic Ontology"
+        },
+        "cnt": "http://www.w3.org/2011/content#",
+        "crowds": {
+            "@id": "http://www.digirati.com/ns/crowds",
+            "vocabulary_id": "15",
+            "vocabulary_label": "Crowds: Crowd Source Vocabulary for defining capture models."
+        },
+        "dcterms": {
+            "@id": "http://purl.org/dc/terms/",
+            "vocabulary_id": "1",
+            "vocabulary_label": "Dublin Core"
+        },
+        "dctype": {
+            "@id": "http://purl.org/dc/dcmitype/",
+            "vocabulary_id": "2",
+            "vocabulary_label": "Dublin Core Type"
+        },
+        "doap": {
+            "@id": "http://usefulinc.com/ns/doap#",
+            "vocabulary_id": "5",
+            "vocabulary_label": "Description of a Project (DOAP) vocabulary"
+        },
+        "exif": {
+            "@id": "http://www.w3.org/2003/12/exif/ns",
+            "vocabulary_id": "8",
+            "vocabulary_label": "Vocabulary to describe an Exif format picture data."
+        },
+        "foaf": {
+            "@id": "http://xmlns.com/foaf/0.1/",
+            "vocabulary_id": "4",
+            "vocabulary_label": "Friend of a Friend"
+        },
+        "iiif": {
+            "@id": "http://iiif.io/api/image/2#",
+            "vocabulary_id": "9",
+            "vocabulary_label": "IIIF Image API Ontology"
+        },
+        "madoc": {
+            "@id": "http://www.digirati.com/ns/madoc#",
+            "vocabulary_id": "18",
+            "vocabulary_label": "Madoc: crowd source vocab for rendering UI"
+        },
+        "o": "http://omeka.org/s/vocabs/o#",
+        "oa": {
+            "@id": "http://www.w3.org/ns/oa#",
+            "vocabulary_id": "10",
+            "vocabulary_label": "Open Annotation (oa prefix until update of Omeka)"
+        },
+        "rdfs": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema",
+            "vocabulary_id": "17",
+            "vocabulary_label": "The RDF Schema vocabulary (RDFS)"
+        },
+        "sc": {
+            "@id": "http://iiif.io/api/presentation/2#",
+            "vocabulary_id": "12",
+            "vocabulary_label": "Shared Canvas"
+        },
+        "schema": {
+            "@id": "http://schema.org/",
+            "vocabulary_id": "14",
+            "vocabulary_label": "Schema.org"
+        },
+        "svcs": {
+            "@id": "http://rdfs.org/sioc/ns#",
+            "vocabulary_id": "13",
+            "vocabulary_label": "SIOC Services Ontology Module"
+        },
+        "time": "http://www.w3.org/2006/time#"
+    },
+    "@id": "https://omeka.nlw.digtest.co.uk/api/item_sets/1",
+    "@type": [
+        "o:ItemSet",
+        "dctype:InteractiveResource"
+    ],
+    "crowds:derivedAnnoBodyFormat": "text/plain",
+    "crowds:derivedAnnoBodyPurpose": {
+        "@id": "http://www.w3.org/ns/oa#tagging",
+        "o:label": "oa:tagging"
+    },
+    "crowds:derivedAnnoBodyType": {
+        "@id": "http://www.w3.org/ns/oa#TextualBody",
+        "o:label": "oa:TextualBody"
+    },
+    "crowds:derivedAnnoCombine": "True",
+    "crowds:derivedAnnoExternalize": "False",
+    "crowds:derivedAnnoHumanReadable": "False",
+    "crowds:derivedAnnoMotivatedBy": {
+        "@id": "http://www.w3.org/ns/oa#tagging",
+        "o:label": "oa:tagging"
+    },
+    "crowds:derivedAnnoSerialize": "True",
+    "crowds:uiChoice": "True",
+    "crowds:uiComponent": "resource",
+    "crowds:uiGroup": {
+        "@id": "madoc:form",
+        "o:label": "madoc:form"
+    },
+    "crowds:uiHidden": "False",
+    "crowds:uiMultiple": "True",
+    "crowds:uiSelectorType": "WholeCanvasSelector",
+    "dcterms:description": "Please select which of the types of information you would want to capture about this photograph",
+    "dcterms:hasPart": [
+        {
+            "@context": {
+                "bibo": {
+                    "@id": "http://purl.org/ontology/bibo/",
+                    "vocabulary_id": "3",
+                    "vocabulary_label": "Bibliographic Ontology"
+                },
+                "cnt": "http://www.w3.org/2011/content#",
+                "crowds": {
+                    "@id": "http://www.digirati.com/ns/crowds",
+                    "vocabulary_id": "15",
+                    "vocabulary_label": "Crowds: Crowd Source Vocabulary for defining capture models."
+                },
+                "dcterms": {
+                    "@id": "http://purl.org/dc/terms/",
+                    "vocabulary_id": "1",
+                    "vocabulary_label": "Dublin Core"
+                },
+                "dctype": {
+                    "@id": "http://purl.org/dc/dcmitype/",
+                    "vocabulary_id": "2",
+                    "vocabulary_label": "Dublin Core Type"
+                },
+                "doap": {
+                    "@id": "http://usefulinc.com/ns/doap#",
+                    "vocabulary_id": "5",
+                    "vocabulary_label": "Description of a Project (DOAP) vocabulary"
+                },
+                "exif": {
+                    "@id": "http://www.w3.org/2003/12/exif/ns",
+                    "vocabulary_id": "8",
+                    "vocabulary_label": "Vocabulary to describe an Exif format picture data."
+                },
+                "foaf": {
+                    "@id": "http://xmlns.com/foaf/0.1/",
+                    "vocabulary_id": "4",
+                    "vocabulary_label": "Friend of a Friend"
+                },
+                "iiif": {
+                    "@id": "http://iiif.io/api/image/2#",
+                    "vocabulary_id": "9",
+                    "vocabulary_label": "IIIF Image API Ontology"
+                },
+                "madoc": {
+                    "@id": "http://www.digirati.com/ns/madoc#",
+                    "vocabulary_id": "18",
+                    "vocabulary_label": "Madoc: crowd source vocab for rendering UI"
+                },
+                "o": "http://omeka.org/s/vocabs/o#",
+                "oa": {
+                    "@id": "http://www.w3.org/ns/oa#",
+                    "vocabulary_id": "10",
+                    "vocabulary_label": "Open Annotation (oa prefix until update of Omeka)"
+                },
+                "rdfs": {
+                    "@id": "http://www.w3.org/2000/01/rdf-schema",
+                    "vocabulary_id": "17",
+                    "vocabulary_label": "The RDF Schema vocabulary (RDFS)"
+                },
+                "sc": {
+                    "@id": "http://iiif.io/api/presentation/2#",
+                    "vocabulary_id": "12",
+                    "vocabulary_label": "Shared Canvas"
+                },
+                "schema": {
+                    "@id": "http://schema.org/",
+                    "vocabulary_id": "14",
+                    "vocabulary_label": "Schema.org"
+                },
+                "svcs": {
+                    "@id": "http://rdfs.org/sioc/ns#",
+                    "vocabulary_id": "13",
+                    "vocabulary_label": "SIOC Services Ontology Module"
+                },
+                "time": "http://www.w3.org/2006/time#"
+            },
+            "@id": "https://omeka.nlw.digtest.co.uk/api/item_sets/2",
+            "@type": [
+                "o:ItemSet",
+                "dctype:InteractiveResource"
+            ],
+            "crowds:derivedAnnoBodyFormat": "text/plain",
+            "crowds:derivedAnnoBodyPurpose": {
+                "@id": "http://www.w3.org/ns/oa#tagging",
+                "o:label": "oa:tagging"
+            },
+            "crowds:derivedAnnoBodyType": {
+                "@id": "http://www.w3.org/ns/oa#TextualBody",
+                "o:label": "oa:TextualBody"
+            },
+            "crowds:derivedAnnoCombine": "True",
+            "crowds:derivedAnnoExternalize": "False",
+            "crowds:derivedAnnoHumanReadable": "False",
+            "crowds:derivedAnnoMotivatedBy": {
+                "@id": "http://www.w3.org/ns/oa#tagging",
+                "o:label": "oa:tagging"
+            },
+            "crowds:derivedAnnoSerialize": "True",
+            "crowds:uiChoice": "False",
+            "crowds:uiComponent": "resource",
+            "crowds:uiGroup": {
+                "@id": "madoc:form",
+                "o:label": "madoc:form"
+            },
+            "crowds:uiHidden": "False",
+            "crowds:uiMultiple": "True",
+            "crowds:uiSelectorType": "WholeCanvasSelector",
+            "dcterms:conformsTo": "https://schema.org/subject",
+            "dcterms:description": "Enter whatever information you have about this photograph",
+            "dcterms:hasPart": [
+                {
+                    "@id": "https://omeka.nlw.digtest.co.uk/api/items/5",
+                    "@type": [
+                        "o:Item",
+                        "dctype:InteractiveResource"
+                    ],
+                    "crowds:derivedAnnoBodyFormat": "text/plain",
+                    "crowds:derivedAnnoBodyPurpose": {
+                        "@id": "http://www.w3.org/ns/oa#identifying",
+                        "o:label": "oa:identifying"
+                    },
+                    "crowds:derivedAnnoBodyType": {
+                        "@id": "http://www.w3.org/ns/oa#TextualBody",
+                        "o:label": "oa:TextualBody"
+                    },
+                    "crowds:derivedAnnoMotivatedBy": {
+                        "@id": "http://www.w3.org/ns/oa#tagging",
+                        "o:label": "oa:tagging"
+                    },
+                    "crowds:uiHidden": "False",
+                    "crowds:uiInputDefaultValue": "1965-01-01T14:50:35+00:00",
+                    "crowds:uiInputType": {
+                        "@id": "madoc:datepicker",
+                        "o:label": "madoc:datepicker"
+                    },
+                    "dcterms:conformsTo": "https://schema.org/dateCreated",
+                    "dcterms:description": "Leave blank if you don't know.",
+                    "dcterms:identifier": "5",
+                    "dcterms:title": "Date taken",
+                    "dcterms:type": {
+                        "@id": "http://www.digirati.com/ns/madoc#element",
+                        "o:label": "madoc:element"
+                    },
+                    "o:id": "5",
+                    "o:is_public": "true",
+                    "o:modified": {
+                        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                        "@value": "2017-06-28T09:21:30+00:00"
+                    },
+                    "o:owner": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
+                        "o:id": "1"
+                    },
+                    "o:resource_class": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
+                        "o:id": "27"
+                    },
+                    "o:resource_template": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_templates/2",
+                        "o:id": "2"
+                    },
+                    "rdfs:label": "What is the exact date this photograph was taken? (DD/MM/YYYY)"
+                },
+                {
+                    "@id": "https://omeka.nlw.digtest.co.uk/api/items/6",
+                    "@type": [
+                        "o:Item",
+                        "dctype:InteractiveResource"
+                    ],
+                    "crowds:derivedAnnoBodyFormat": "text/plain",
+                    "crowds:derivedAnnoBodyPurpose": {
+                        "@id": "http://www.w3.org/ns/oa#identifying",
+                        "o:label": "oa:identifying"
+                    },
+                    "crowds:derivedAnnoBodyType": {
+                        "@id": "http://www.w3.org/ns/oa#TextualBody",
+                        "o:label": "oa:TextualBody"
+                    },
+                    "crowds:derivedAnnoMotivatedBy": {
+                        "@id": "http://www.w3.org/ns/oa#tagging",
+                        "o:label": "oa:tagging"
+                    },
+                    "crowds:uiHidden": "False",
+                    "crowds:uiInputOptions": [
+                        "1960",
+                        "1961",
+                        "1962",
+                        "1963",
+                        "1964",
+                        "1965",
+                        "1966",
+                        "1967",
+                        "1968",
+                        "1969",
+                        "1970",
+                        "1971",
+                        "1972",
+                        "1973",
+                        "1974",
+                        "1975",
+                        "1976",
+                        "1977",
+                        "1978",
+                        "1979"
+                    ],
+                    "crowds:uiInputType": {
+                        "@id": "madoc:dropdown",
+                        "o:label": "madoc:dropdown"
+                    },
+                    "dcterms:conformsTo": "https://schema.org/dateCreated",
+                    "dcterms:description": "Leave blank if you don't know.",
+                    "dcterms:identifier": "6",
+                    "dcterms:title": "Year taken",
+                    "dcterms:type": {
+                        "@id": "http://www.digirati.com/ns/madoc#element",
+                        "o:label": "madoc:element"
+                    },
+                    "o:id": "6",
+                    "o:is_public": "true",
+                    "o:modified": {
+                        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                        "@value": "2017-06-28T09:21:30+00:00"
+                    },
+                    "o:owner": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
+                        "o:id": "1"
+                    },
+                    "o:resource_class": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
+                        "o:id": "27"
+                    },
+                    "o:resource_template": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_templates/2",
+                        "o:id": "2"
+                    },
+                    "rdfs:label": "What year was this photograph taken?"
+                },
+                {
+                    "@id": "https://omeka.nlw.digtest.co.uk/api/items/7",
+                    "@type": [
+                        "o:Item",
+                        "dctype:InteractiveResource"
+                    ],
+                    "crowds:derivedAnnoBodyFormat": "text/plain",
+                    "crowds:derivedAnnoBodyPurpose": {
+                        "@id": "http://www.w3.org/ns/oa#identifying",
+                        "o:label": "oa:identifying"
+                    },
+                    "crowds:derivedAnnoBodyType": {
+                        "@id": "http://www.w3.org/ns/oa#TextualBody",
+                        "o:label": "oa:TextualBody"
+                    },
+                    "crowds:derivedAnnoMotivatedBy": {
+                        "@id": "http://www.w3.org/ns/oa#tagging",
+                        "o:label": "oa:tagging"
+                    },
+                    "crowds:uiHidden": "False",
+                    "crowds:uiInputType": {
+                        "@id": "madoc:mappicker",
+                        "o:label": "madoc:mappicker"
+                    },
+                    "dcterms:conformsTo": "https://schema.org/place",
+                    "dcterms:description": "Type a town or village, then use the map to pinpoint more exact location.",
+                    "dcterms:identifier": "7",
+                    "dcterms:title": "Place taken",
+                    "dcterms:type": {
+                        "@id": "http://www.digirati.com/ns/madoc#element",
+                        "o:label": "madoc:element"
+                    },
+                    "o:id": "7",
+                    "o:is_public": "true",
+                    "o:modified": {
+                        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                        "@value": "2017-06-28T09:21:30+00:00"
+                    },
+                    "o:owner": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
+                        "o:id": "1"
+                    },
+                    "o:resource_class": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
+                        "o:id": "27"
+                    },
+                    "o:resource_template": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_templates/2",
+                        "o:id": "2"
+                    },
+                    "rdfs:label": "Where was this photograph taken?"
+                },
+                {
+                    "@id": "https://omeka.nlw.digtest.co.uk/api/items/8",
+                    "@type": [
+                        "o:Item",
+                        "dctype:InteractiveResource"
+                    ],
+                    "crowds:derivedAnnoBodyFormat": "text/plain",
+                    "crowds:derivedAnnoBodyPurpose": {
+                        "@id": "http://www.w3.org/ns/oa#identifying",
+                        "o:label": "oa:identifying"
+                    },
+                    "crowds:derivedAnnoBodyType": {
+                        "@id": "http://www.w3.org/ns/oa#TextualBody",
+                        "o:label": "oa:TextualBody"
+                    },
+                    "crowds:derivedAnnoMotivatedBy": {
+                        "@id": "http://www.w3.org/ns/oa#tagging",
+                        "o:label": "oa:tagging"
+                    },
+                    "crowds:uiHidden": "False",
+                    "crowds:uiInputType": {
+                        "@id": "madoc:textarea",
+                        "o:label": "madoc:textarea"
+                    },
+                    "dcterms:conformsTo": "https://purl.org/dc/terms/description",
+                    "dcterms:description": "Fill in any extra information you have about this photo or leave blank",
+                    "dcterms:identifier": "8",
+                    "dcterms:title": "Description",
+                    "dcterms:type": {
+                        "@id": "http://www.digirati.com/ns/madoc#element",
+                        "o:label": "madoc:element"
+                    },
+                    "o:id": "8",
+                    "o:is_public": "true",
+                    "o:modified": {
+                        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                        "@value": "2017-06-28T09:21:30+00:00"
+                    },
+                    "o:owner": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
+                        "o:id": "1"
+                    },
+                    "o:resource_class": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
+                        "o:id": "27"
+                    },
+                    "o:resource_template": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_templates/2",
+                        "o:id": "2"
+                    },
+                    "rdfs:label": "Describe the contents of this photograph."
+                }
+            ],
+            "dcterms:identifier": "2",
+            "dcterms:title": "Whole photograph",
+            "dcterms:type": {
+                "@id": "http://www.digirati.com/ns/madoc#group",
+                "o:label": "madoc:group"
+            },
+            "o:id": "2",
+            "o:is_public": "true",
+            "o:modified": {
+                "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                "@value": "2017-06-28T09:21:30+00:00"
+            },
+            "o:owner": {
+                "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
+                "o:id": "1"
+            },
+            "o:resource_class": {
+                "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
+                "o:id": "27"
+            },
+            "o:resource_template": {
+                "@id": "https://omeka.nlw.digtest.co.uk/api/resource_templates/3",
+                "o:id": "3"
+            },
+            "rdfs:label": "Whole photograph"
+        },
+        {
+            "@context": {
+                "bibo": {
+                    "@id": "http://purl.org/ontology/bibo/",
+                    "vocabulary_id": "3",
+                    "vocabulary_label": "Bibliographic Ontology"
+                },
+                "cnt": "http://www.w3.org/2011/content#",
+                "crowds": {
+                    "@id": "http://www.digirati.com/ns/crowds",
+                    "vocabulary_id": "15",
+                    "vocabulary_label": "Crowds: Crowd Source Vocabulary for defining capture models."
+                },
+                "dcterms": {
+                    "@id": "http://purl.org/dc/terms/",
+                    "vocabulary_id": "1",
+                    "vocabulary_label": "Dublin Core"
+                },
+                "dctype": {
+                    "@id": "http://purl.org/dc/dcmitype/",
+                    "vocabulary_id": "2",
+                    "vocabulary_label": "Dublin Core Type"
+                },
+                "doap": {
+                    "@id": "http://usefulinc.com/ns/doap#",
+                    "vocabulary_id": "5",
+                    "vocabulary_label": "Description of a Project (DOAP) vocabulary"
+                },
+                "exif": {
+                    "@id": "http://www.w3.org/2003/12/exif/ns",
+                    "vocabulary_id": "8",
+                    "vocabulary_label": "Vocabulary to describe an Exif format picture data."
+                },
+                "foaf": {
+                    "@id": "http://xmlns.com/foaf/0.1/",
+                    "vocabulary_id": "4",
+                    "vocabulary_label": "Friend of a Friend"
+                },
+                "iiif": {
+                    "@id": "http://iiif.io/api/image/2#",
+                    "vocabulary_id": "9",
+                    "vocabulary_label": "IIIF Image API Ontology"
+                },
+                "madoc": {
+                    "@id": "http://www.digirati.com/ns/madoc#",
+                    "vocabulary_id": "18",
+                    "vocabulary_label": "Madoc: crowd source vocab for rendering UI"
+                },
+                "o": "http://omeka.org/s/vocabs/o#",
+                "oa": {
+                    "@id": "http://www.w3.org/ns/oa#",
+                    "vocabulary_id": "10",
+                    "vocabulary_label": "Open Annotation (oa prefix until update of Omeka)"
+                },
+                "rdfs": {
+                    "@id": "http://www.w3.org/2000/01/rdf-schema",
+                    "vocabulary_id": "17",
+                    "vocabulary_label": "The RDF Schema vocabulary (RDFS)"
+                },
+                "sc": {
+                    "@id": "http://iiif.io/api/presentation/2#",
+                    "vocabulary_id": "12",
+                    "vocabulary_label": "Shared Canvas"
+                },
+                "schema": {
+                    "@id": "http://schema.org/",
+                    "vocabulary_id": "14",
+                    "vocabulary_label": "Schema.org"
+                },
+                "svcs": {
+                    "@id": "http://rdfs.org/sioc/ns#",
+                    "vocabulary_id": "13",
+                    "vocabulary_label": "SIOC Services Ontology Module"
+                },
+                "time": "http://www.w3.org/2006/time#"
+            },
+            "@id": "https://omeka.nlw.digtest.co.uk/api/item_sets/3",
+            "@type": [
+                "o:ItemSet",
+                "dctype:InteractiveResource"
+            ],
+            "crowds:derivedAnnoBodyFormat": "text/plain",
+            "crowds:derivedAnnoBodyPurpose": {
+                "@id": "http://www.w3.org/ns/oa#tagging",
+                "o:label": "oa:tagging"
+            },
+            "crowds:derivedAnnoBodyType": {
+                "@id": "http://www.w3.org/ns/oa#TextualBody",
+                "o:label": "oa:TextualBody"
+            },
+            "crowds:derivedAnnoCombine": "True",
+            "crowds:derivedAnnoExternalize": "False",
+            "crowds:derivedAnnoHumanReadable": "False",
+            "crowds:derivedAnnoMotivatedBy": {
+                "@id": "http://www.w3.org/ns/oa#tagging",
+                "o:label": "oa:tagging"
+            },
+            "crowds:derivedAnnoSerialize": "True",
+            "crowds:uiChoice": "False",
+            "crowds:uiComponent": "resource",
+            "crowds:uiGroup": {
+                "@id": "madoc:form",
+                "o:label": "madoc:form"
+            },
+            "crowds:uiHidden": "False",
+            "crowds:uiMultiple": "True",
+            "crowds:uiSelectorType": {
+                "@id": "madoc:boxdraw",
+                "o:label": "madoc:boxdraw"
+            },
+            "dcterms:conformsTo": "https://schema.org/person",
+            "dcterms:description": "Move the red box to highlight one person, and enter information about them below. You can repeat this for as many people as you recognise.",
+            "dcterms:hasPart": [
+                {
+                    "@id": "https://omeka.nlw.digtest.co.uk/api/items/10",
+                    "@type": [
+                        "o:Item",
+                        "dctype:InteractiveResource"
+                    ],
+                    "crowds:derivedAnnoBodyFormat": "text/plain",
+                    "crowds:derivedAnnoBodyPurpose": {
+                        "@id": "http://www.w3.org/ns/oa#identifying",
+                        "o:label": "oa:identifying"
+                    },
+                    "crowds:derivedAnnoBodyType": {
+                        "@id": "http://www.w3.org/ns/oa#TextualBody",
+                        "o:label": "oa:TextualBody"
+                    },
+                    "crowds:derivedAnnoMotivatedBy": {
+                        "@id": "http://www.w3.org/ns/oa#tagging",
+                        "o:label": "oa:tagging"
+                    },
+                    "crowds:uiHidden": "False",
+                    "crowds:uiInputType": {
+                        "@id": "madoc:textarea",
+                        "o:label": "madoc:textarea"
+                    },
+                    "dcterms:conformsTo": "https://purl.org/dc/terms/description",
+                    "dcterms:description": "Please add any additional information about the person.",
+                    "dcterms:identifier": "10",
+                    "dcterms:title": "Additional information",
+                    "dcterms:type": {
+                        "@id": "http://www.digirati.com/ns/madoc#element",
+                        "o:label": "madoc:element"
+                    },
+                    "o:id": "10",
+                    "o:is_public": "true",
+                    "o:modified": {
+                        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                        "@value": "2017-06-28T09:21:30+00:00"
+                    },
+                    "o:owner": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
+                        "o:id": "1"
+                    },
+                    "o:resource_class": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
+                        "o:id": "27"
+                    },
+                    "o:resource_template": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_templates/2",
+                        "o:id": "2"
+                    },
+                    "rdfs:label": "Enter any other information about this person."
+                },
+                {
+                    "@id": "https://omeka.nlw.digtest.co.uk/api/items/9",
+                    "@type": [
+                        "o:Item",
+                        "dctype:InteractiveResource"
+                    ],
+                    "crowds:derivedAnnoBodyFormat": "text/plain",
+                    "crowds:derivedAnnoBodyPurpose": {
+                        "@id": "http://www.w3.org/ns/oa#identifying",
+                        "o:label": "oa:identifying"
+                    },
+                    "crowds:derivedAnnoBodyType": {
+                        "@id": "http://www.w3.org/ns/oa#TextualBody",
+                        "o:label": "oa:TextualBody"
+                    },
+                    "crowds:derivedAnnoMotivatedBy": {
+                        "@id": "http://www.w3.org/ns/oa#tagging",
+                        "o:label": "oa:tagging"
+                    },
+                    "crowds:uiHidden": "False",
+                    "crowds:uiInputType": {
+                        "@id": "madoc:textbox",
+                        "o:label": "madoc:textbox"
+                    },
+                    "dcterms:conformsTo": "https://schema.org/name",
+                    "dcterms:description": "Please enter first names and or surnames.",
+                    "dcterms:identifier": "9",
+                    "dcterms:title": "Name",
+                    "dcterms:type": {
+                        "@id": "http://www.digirati.com/ns/madoc#element",
+                        "o:label": "madoc:element"
+                    },
+                    "o:id": "9",
+                    "o:is_public": "true",
+                    "o:modified": {
+                        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                        "@value": "2017-06-28T09:21:30+00:00"
+                    },
+                    "o:owner": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
+                        "o:id": "1"
+                    },
+                    "o:resource_class": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
+                        "o:id": "27"
+                    },
+                    "o:resource_template": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_templates/2",
+                        "o:id": "2"
+                    },
+                    "rdfs:label": "What is this person\u2019s name?"
+                }
+            ],
+            "dcterms:identifier": "3",
+            "dcterms:title": "Person",
+            "dcterms:type": {
+                "@id": "http://www.digirati.com/ns/madoc#group",
+                "o:label": "madoc:group"
+            },
+            "o:id": "3",
+            "o:is_public": "true",
+            "o:modified": {
+                "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                "@value": "2017-06-28T09:21:30+00:00"
+            },
+            "o:owner": {
+                "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
+                "o:id": "1"
+            },
+            "o:resource_class": {
+                "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
+                "o:id": "27"
+            },
+            "o:resource_template": {
+                "@id": "https://omeka.nlw.digtest.co.uk/api/resource_templates/3",
+                "o:id": "3"
+            },
+            "rdfs:label": "Person"
+        },
+        {
+            "@context": {
+                "bibo": {
+                    "@id": "http://purl.org/ontology/bibo/",
+                    "vocabulary_id": "3",
+                    "vocabulary_label": "Bibliographic Ontology"
+                },
+                "cnt": "http://www.w3.org/2011/content#",
+                "crowds": {
+                    "@id": "http://www.digirati.com/ns/crowds",
+                    "vocabulary_id": "15",
+                    "vocabulary_label": "Crowds: Crowd Source Vocabulary for defining capture models."
+                },
+                "dcterms": {
+                    "@id": "http://purl.org/dc/terms/",
+                    "vocabulary_id": "1",
+                    "vocabulary_label": "Dublin Core"
+                },
+                "dctype": {
+                    "@id": "http://purl.org/dc/dcmitype/",
+                    "vocabulary_id": "2",
+                    "vocabulary_label": "Dublin Core Type"
+                },
+                "doap": {
+                    "@id": "http://usefulinc.com/ns/doap#",
+                    "vocabulary_id": "5",
+                    "vocabulary_label": "Description of a Project (DOAP) vocabulary"
+                },
+                "exif": {
+                    "@id": "http://www.w3.org/2003/12/exif/ns",
+                    "vocabulary_id": "8",
+                    "vocabulary_label": "Vocabulary to describe an Exif format picture data."
+                },
+                "foaf": {
+                    "@id": "http://xmlns.com/foaf/0.1/",
+                    "vocabulary_id": "4",
+                    "vocabulary_label": "Friend of a Friend"
+                },
+                "iiif": {
+                    "@id": "http://iiif.io/api/image/2#",
+                    "vocabulary_id": "9",
+                    "vocabulary_label": "IIIF Image API Ontology"
+                },
+                "madoc": {
+                    "@id": "http://www.digirati.com/ns/madoc#",
+                    "vocabulary_id": "18",
+                    "vocabulary_label": "Madoc: crowd source vocab for rendering UI"
+                },
+                "o": "http://omeka.org/s/vocabs/o#",
+                "oa": {
+                    "@id": "http://www.w3.org/ns/oa#",
+                    "vocabulary_id": "10",
+                    "vocabulary_label": "Open Annotation (oa prefix until update of Omeka)"
+                },
+                "rdfs": {
+                    "@id": "http://www.w3.org/2000/01/rdf-schema",
+                    "vocabulary_id": "17",
+                    "vocabulary_label": "The RDF Schema vocabulary (RDFS)"
+                },
+                "sc": {
+                    "@id": "http://iiif.io/api/presentation/2#",
+                    "vocabulary_id": "12",
+                    "vocabulary_label": "Shared Canvas"
+                },
+                "schema": {
+                    "@id": "http://schema.org/",
+                    "vocabulary_id": "14",
+                    "vocabulary_label": "Schema.org"
+                },
+                "svcs": {
+                    "@id": "http://rdfs.org/sioc/ns#",
+                    "vocabulary_id": "13",
+                    "vocabulary_label": "SIOC Services Ontology Module"
+                },
+                "time": "http://www.w3.org/2006/time#"
+            },
+            "@id": "https://omeka.nlw.digtest.co.uk/api/item_sets/37",
+            "@type": [
+                "o:ItemSet",
+                "dctype:InteractiveResource"
+            ],
+            "crowds:derivedAnnoBodyFormat": "text/plain",
+            "crowds:derivedAnnoBodyPurpose": {
+                "@id": "http://www.w3.org/ns/oa#tagging",
+                "o:label": "oa:tagging"
+            },
+            "crowds:derivedAnnoBodyType": {
+                "@id": "http://www.w3.org/ns/oa#TextualBody",
+                "o:label": "oa:TextualBody"
+            },
+            "crowds:derivedAnnoCombine": "True",
+            "crowds:derivedAnnoExternalize": "False",
+            "crowds:derivedAnnoHumanReadable": "False",
+            "crowds:derivedAnnoMotivatedBy": {
+                "@id": "http://www.w3.org/ns/oa#tagging",
+                "o:label": "oa:tagging"
+            },
+            "crowds:derivedAnnoSerialize": "True",
+            "crowds:uiChoice": "False",
+            "crowds:uiComponent": "resource",
+            "crowds:uiGroup": {
+                "@id": "madoc:form",
+                "o:label": "madoc:form"
+            },
+            "crowds:uiHidden": "False",
+            "crowds:uiMultiple": "True",
+            "crowds:uiSelectorType": "WholeCanvasSelector",
+            "dcterms:conformsTo": "https://schema.org/subject",
+            "dcterms:description": "Tagging photographs will help people to search the collection. Please use tags/suggestions from the autocomplete list whenever possible. If you cannot find a matching suggestion, then enter your own tags in the additional tags box.",
+            "dcterms:hasPart": [
+                {
+                    "@id": "https://omeka.nlw.digtest.co.uk/api/items/22",
+                    "@type": [
+                        "o:Item",
+                        "dctype:InteractiveResource"
+                    ],
+                    "crowds:derivedAnnoBodyFormat": "text/plain",
+                    "crowds:derivedAnnoBodyPurpose": {
+                        "@id": "http://www.w3.org/ns/oa#tagging",
+                        "o:label": "oa:tagging"
+                    },
+                    "crowds:derivedAnnoBodyType": {
+                        "@id": "http://www.w3.org/ns/oa#TextualBody",
+                        "o:label": "oa:TextualBody"
+                    },
+                    "crowds:uiHidden": "False",
+                    "crowds:uiInputOptions": "https://crowd.library.wales/api/complete?class=FAST&q=%s",
+                    "crowds:uiInputType": {
+                        "@id": "madoc:autocomplete",
+                        "o:label": "madoc:autocomplete"
+                    },
+                    "dcterms:conformsTo": "https://purl.org/dc/terms/subject",
+                    "dcterms:identifier": "22",
+                    "dcterms:title": "Choose Tag",
+                    "dcterms:type": {
+                        "@id": "http://www.digirati.com/ns/madoc#element",
+                        "o:label": "madoc:element"
+                    },
+                    "o:id": "22",
+                    "o:is_public": "true",
+                    "o:modified": {
+                        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                        "@value": "2017-06-28T09:21:30+00:00"
+                    },
+                    "o:owner": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
+                        "o:id": "1"
+                    },
+                    "o:resource_class": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
+                        "o:id": "27"
+                    },
+                    "o:resource_template": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_templates/2",
+                        "o:id": "2"
+                    },
+                    "rdfs:label": "Start typing to find a relevant tag."
+                },
+                {
+                    "@id": "https://omeka.nlw.digtest.co.uk/api/items/23",
+                    "@type": [
+                        "o:Item",
+                        "dctype:InteractiveResource"
+                    ],
+                    "crowds:derivedAnnoBodyFormat": "text/plain",
+                    "crowds:derivedAnnoBodyPurpose": {
+                        "@id": "http://www.w3.org/ns/oa#tagging",
+                        "o:label": "oa:tagging"
+                    },
+                    "crowds:derivedAnnoBodyType": {
+                        "@id": "http://www.w3.org/ns/oa#TextualBody",
+                        "o:label": "oa:TextualBody"
+                    },
+                    "crowds:derivedAnnoMotivatedBy": {
+                        "@id": "http://www.w3.org/ns/oa#tagging",
+                        "o:label": "oa:tagging"
+                    },
+                    "crowds:uiHidden": "False",
+                    "crowds:uiInputType": {
+                        "@id": "madoc:textarea",
+                        "o:label": "madoc:textarea"
+                    },
+                    "dcterms:conformsTo": "https://purl.org/dc/terms/subject",
+                    "dcterms:description": "Please try to find your tag in the list above first.",
+                    "dcterms:identifier": "23",
+                    "dcterms:title": "Additional Tags",
+                    "dcterms:type": {
+                        "@id": "http://www.digirati.com/ns/madoc#element",
+                        "o:label": "madoc:element"
+                    },
+                    "o:id": "23",
+                    "o:is_public": "true",
+                    "o:modified": {
+                        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                        "@value": "2017-06-28T09:21:30+00:00"
+                    },
+                    "o:owner": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
+                        "o:id": "1"
+                    },
+                    "o:resource_class": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
+                        "o:id": "27"
+                    },
+                    "o:resource_template": {
+                        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_templates/2",
+                        "o:id": "2"
+                    },
+                    "rdfs:label": "Can't find a relevant tag? Enter your own tags below."
+                }
+            ],
+            "dcterms:identifier": "37",
+            "dcterms:title": "Tags",
+            "dcterms:type": {
+                "@id": "http://www.digirati.com/ns/madoc#group",
+                "o:label": "madoc:group"
+            },
+            "o:id": "37",
+            "o:is_public": "true",
+            "o:modified": {
+                "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                "@value": "2017-06-28T09:21:30+00:00"
+            },
+            "o:owner": {
+                "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
+                "o:id": "1"
+            },
+            "o:resource_class": {
+                "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
+                "o:id": "27"
+            },
+            "o:resource_template": {
+                "@id": "https://omeka.nlw.digtest.co.uk/api/resource_templates/3",
+                "o:id": "3"
+            },
+            "rdfs:label": "Tags"
+        }
+    ],
+    "dcterms:identifier": "1",
+    "dcterms:title": "Choose what you want to tag (date list test)",
+    "dcterms:type": {
+        "@id": "http://www.digirati.com/ns/madoc#group",
+        "o:label": "madoc:group"
+    },
+    "o:id": "1",
+    "o:is_public": "true",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-28T09:21:30+00:00"
+    },
+    "o:owner": {
+        "@id": "https://omeka.nlw.digtest.co.uk/api/users/1",
+        "o:id": "1"
+    },
+    "o:resource_class": {
+        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_classes/27",
+        "o:id": "27"
+    },
+    "o:resource_template": {
+        "@id": "https://omeka.nlw.digtest.co.uk/api/resource_templates/3",
+        "o:id": "3"
+    },
+    "rdfs:label": "Describe this photograph.."
+}

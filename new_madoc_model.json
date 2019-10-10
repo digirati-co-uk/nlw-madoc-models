@@ -1,0 +1,156 @@
+{
+  "generator": "https://madoc.foo/capture-models/get/?resources=[site_id]",
+  "struct": {
+    "choice": [
+      {
+        "id": "person",
+        "title": "Person",
+        "description": "Move the red box to highlight one person and enter information. You can repeat this.",
+        "fields": [
+          "person.name",
+          "person.description"
+        ]
+      },
+      {
+        "id": "photo",
+        "title": "Whole photograph",
+        "description": "Describe the whole photograph",
+        "fields": [
+          "photo.date",
+          "photo.year",
+          "photo.map",
+          "photo.description"
+        ]
+      }
+    ],
+    "selected": []
+  },
+  "fields": {
+    "person.name": [
+      {
+        "title": "What is this person's name?",
+        "description": "Please enter the first name and surname.",
+        "value": null,
+        "conformsTo": "https://schema.org/name",
+        "inputType": "text",
+        "motivation": "identifying",
+        "created": null,
+        "creator": {
+          "id": null,
+          "type": "Person",
+          "email_sha1": null,
+          "name": null,
+          "nickname": null
+        },
+        "target": [
+          {
+            "type": "SpecificResource",
+            "dcterms:isPartOf": null,
+            "selector": {
+              "type": "FragmentSelector",
+              "conformsTo": "http://www.w3.org/TR/media-frags/",
+              "value": null
+            },
+            "source": null
+          }
+        ]
+      }
+    ],
+    "person.description": [
+      {
+        "title": "Enter any other information about this person.",
+        "description": "Please add any other information you have about this person.",
+        "conformsTo": "https://purl.org/dcterms/dscription",
+       "value": null,
+        "inputType": "textarea",
+        "motivation": "identifying",
+        "created": null,
+        "creator": {
+          "id": null,
+          "type": "Person",
+          "email_sha1": null,
+          "name": null,
+          "nickname": null
+        },
+        "target": [
+          {
+            "type": "SpecificResource",
+            "dcterms:isPartOf": null,
+            "selector": {
+              "type": "FragmentSelector",
+              "conformsTo": "http://www.w3.org/TR/media-frags/",
+              "value": null
+            },
+            "source": null
+          }
+        ]
+      }
+    ],
+    "photo.date": [
+      {
+        "title": "What is the exact date this photograph was taken? (DD/MM/YYYY)",
+        "description": "Leave blank if you don't know.",
+        "conformsTo": "https://schema.org/dateCreated",
+        "value": null,
+        "inputType": "date",
+        "motivation": "describing",
+        "created": null,
+        "creator": {
+          "id": null,
+          "type": "Person",
+          "email_sha1": null,
+          "name": null,
+          "nickname": null
+        },
+        "target": {
+          "type": "SpecificResource",
+          "source": null
+        }
+      }
+    ],
+    "photo.year": [
+      {
+        "title": "Year taken.",
+        "description": "Leave blank if you don't know.",
+        "conformsTo": "https://schema.org/dateCreated",
+        "value": null,
+        "inputType": "list",
+        "motivation": "describing",
+        "created": null,
+        "creator": {
+          "id": null,
+          "type": "Person",
+          "email_sha1": null,
+          "name": null,
+          "nickname": null
+        },
+        "target": {
+          "type": "SpecificResource",
+          "source": null
+        }
+      }
+    ],
+    "photo.map": [
+      {
+        "title": "Place taken.",
+        "description": "Type a town or village, then use the map to pinpoint more exact location.",
+        "conformsTo": "https://schema.org/place",
+        "value": null,
+        "inputType": "map",
+        "motivation": "describing",
+        "created": null,
+        "creator": {
+          "id": null,
+          "type": "Person",
+          "email_sha1": null,
+          "name": null,
+          "nickname": null
+        },
+        "target": {
+          "type": "SpecificResource",
+          "source": null
+        }
+      }
+    ]
+  }
+}
